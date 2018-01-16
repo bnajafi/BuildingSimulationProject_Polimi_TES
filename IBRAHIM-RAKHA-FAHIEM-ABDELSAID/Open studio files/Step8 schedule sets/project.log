@@ -1,0 +1,174 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000000027F800
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Mohie/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1958-Jan-31 to 1959-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/USA_NY_New.York.City-Central.Park.94728_TMY.epw'. Data will be treated as typical (TMY)
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'

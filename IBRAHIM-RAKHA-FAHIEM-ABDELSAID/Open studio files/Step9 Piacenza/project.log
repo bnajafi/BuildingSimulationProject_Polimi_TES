@@ -1,0 +1,1079 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000000027F800
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Mohie/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1958-Jan-31 to 1959-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/USA_NY_New.York.City-Central.Park.94728_TMY.epw'. Data will be treated as typical (TMY)
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Setting new edit widget: 000000000A1930B0
+[openstudio.openstudio_lib.MainRightColumnController] <-2> Removing old edit widget: 000000000A1930B0
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step8 schedule sets/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[copyDir] <-1> Creating directory named = 'Step9 Piacenza' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[copyDir] <-1> Creating directory named = 'run' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null'
+[copyDir] <-1> Creating directory named = '0-Null' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0'
+[copyDir] <-1> Creating directory named = '1-ModelToIdf-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0'
+[copyDir] <-1> Creating directory named = '2-ExpandObjects-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0'
+[copyDir] <-1> Creating directory named = '3-UserScript-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> Creating directory named = '4-EnergyPlusPreProcess-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0'
+[copyDir] <-1> Creating directory named = '5-EnergyPlus-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0'
+[copyDir] <-1> Creating directory named = '6-UserScript-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> Creating directory named = '7-OpenStudioPostProcess-0' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts'
+[copyDir] <-1> Creating directory named = 'scripts' in parentDstDir = 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio.EpwFile] <0> Successive data points (1958-Jan-31 to 1959-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/USA_NY_New.York.City-Central.Park.94728_TMY.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'D:/Politec/1st year/1st semester/Environmental systems/Lectures_on_OpenStudio_Polimi-master 1/Lectures_on_OpenStudio_Polimi-master/Weather Data/ITA_Piacenza.160840_IGDG.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.setFileExtension] <0> Path p, 'D:/Politec/1st year/1st semester/Environmental systems/Lectures_on_OpenStudio_Polimi-master 1/Lectures_on_OpenStudio_Polimi-master/Weather Data/ITA_Piacenza.160840_IGDG.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Radiance C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0 8.5.0.c87e61b44b
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run infile C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.072
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 1090 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/ITA_Piacenza.160840_IGDG.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/ITA_Piacenza.160840_IGDG.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/ITA_Piacenza.160840_IGDG.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {dc06f08f-aa24-4a56-a091-543d5cf91169} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {87a25759-eda8-4d5f-be06-fe3c580b7982} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {9e7dffd1-caf2-4f19-86da-e56b091ce121} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {d0e3b31b-717e-4f19-91bd-c1f5da9897ea} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {c0d820d6-976d-46f8-89c3-478f2eebbabf} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {3d121610-2d8a-4503-b53f-3c51e8938f12} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {2d572057-d5d3-4246-b535-9cfd7582028b} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to resources/os_lib_schedules.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to resources/report.html.erb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to resources/os_lib_reporting.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b} Null Job
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {dc06f08f-aa24-4a56-a091-543d5cf91169} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b} 2018-Jan-09 19:35:49
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {59dc0c49-d59d-47a2-b4a0-9ddd85ce986b}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 1090 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1090 objects in IDF form.
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1090 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 27', and 'Surface 22' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 56', and 'Surface 35' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 46', and 'Surface 41' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 57', and 'Surface 52' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 63', and 'Surface 72' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 82', and 'Surface 87' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 70', and 'Surface 77' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 53', and 'Surface 34' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 12', and 'Surface 3' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 71', and 'Surface 76' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 16', and 'Surface 11' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 23', and 'Surface 4' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 47', and 'Surface 40' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 26', and 'Surface 5' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 83', and 'Surface 64' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 28', and 'Surface 21' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 81', and 'Surface 88' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 42', and 'Surface 33' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 86', and 'Surface 65' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 58', and 'Surface 51' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 17', and 'Surface 10' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ1-3 is not referenced by any space, it will not be translated.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Discrete', points to an object named OnOff from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always Off Discrete', points to an object named OnOff 1 from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Continuous', points to an object named Fractional 1 from field 1, but that object cannot be located.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {dc06f08f-aa24-4a56-a091-543d5cf91169} 2018-Jan-09 19:35:49
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {87a25759-eda8-4d5f-be06-fe3c580b7982} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {dc06f08f-aa24-4a56-a091-543d5cf91169}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Piacenza
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0/in.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0/in.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/ExpandObjects.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {87a25759-eda8-4d5f-be06-fe3c580b7982} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {87a25759-eda8-4d5f-be06-fe3c580b7982} 2018-Jan-09 19:35:50
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {9e7dffd1-caf2-4f19-86da-e56b091ce121} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile expanded.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {87a25759-eda8-4d5f-be06-fe3c580b7982}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {9e7dffd1-caf2-4f19-86da-e56b091ce121} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {d0e3b31b-717e-4f19-91bd-c1f5da9897ea} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {9e7dffd1-caf2-4f19-86da-e56b091ce121} 2018-Jan-09 19:35:51
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {9e7dffd1-caf2-4f19-86da-e56b091ce121}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {d0e3b31b-717e-4f19-91bd-c1f5da9897ea} 2018-Jan-09 19:35:58
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {c0d820d6-976d-46f8-89c3-478f2eebbabf} EnergyPlus
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {d0e3b31b-717e-4f19-91bd-c1f5da9897ea}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Piacenza
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/energyplus.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {c0d820d6-976d-46f8-89c3-478f2eebbabf} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {3d121610-2d8a-4503-b53f-3c51e8938f12} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {c0d820d6-976d-46f8-89c3-478f2eebbabf} 2018-Jan-09 19:35:58
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile epluszsz.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {c0d820d6-976d-46f8-89c3-478f2eebbabf}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_schedules.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.erb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_reporting.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to be installed at: in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {3d121610-2d8a-4503-b53f-3c51e8938f12} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {2d572057-d5d3-4246-b535-9cfd7582028b} OpenStudioPostProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {3d121610-2d8a-4503-b53f-3c51e8938f12} 2018-Jan-09 19:36:30
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {3d121610-2d8a-4503-b53f-3c51e8938f12}
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in/files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {2d572057-d5d3-4246-b535-9cfd7582028b} 2018-Jan-09 19:36:49
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run.db) Persisting job status for {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {2d572057-d5d3-4246-b535-9cfd7582028b}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[BOOST_ASSERT] <2> Assertion m_choicesMap.find(result) != m_choicesMap.end() failed on line 534 of class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl openstudio::RequiredChoiceConceptImpl<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::get(void) in file c:\git\openstudio_1\openstudiocore\src\shared_gui_components\OSConcepts.hpp.
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step9 Piacenza/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.py9012/resources/files'
