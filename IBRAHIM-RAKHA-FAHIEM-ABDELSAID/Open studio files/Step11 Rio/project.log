@@ -1,0 +1,791 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {f08bea38-47c5-4ac3-a230-7c55f55b145d} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {0f3c1604-01a5-439f-9ff1-ee9d2e0449dd} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {1bb6ac73-d5b4-47d3-8213-e21edf47a89b} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {37a1cbc5-ea22-4af7-8844-bb9e021a1a46} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {81b354a5-f834-4370-a9cc-9024d43312ca} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000000030FA70
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Mohie/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (2008-Feb-28 to 2008-Mar-01, ending on line 1425) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (2008-Feb-28 to 2008-Mar-01, ending on line 1425) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.EpwFile] <0> Successive data points (2008-Feb-28 to 2008-Mar-01, ending on line 1425) are greater than 1 day apart in EPW file 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'D:/Politec/1st year/1st semester/Environmental systems/Lectures_on_OpenStudio_Polimi-master 1/Lectures_on_OpenStudio_Polimi-master/Weather Data/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio::RunView] <-2> playButtonClicked 1
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Ruby C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: Radiance C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/bin -.-.-.-
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/Radiance/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio.runmanager.ToolFinder] <-2> Merging Tool: EnergyPlus C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0 8.5.0.c87e61b44b
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Checking for NREL_ver C:/Program Files/OpenStudio 1.11.0/share/openstudio/NREL_ver.txt
+[openstudio.runmanager.ToolFinder] <-2> Existing tool found with same type and version - merging data
+[openstudio::RunView] <-2> updateToolsWarnings called
+[openstudio.runmanager.RubyJobUtils] <1> Input file type is "Unknown" unable to add it.
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJobUtils] <-1> Adding input file of type: IDF to be copied to in.idf
+[openstudio.runmanager.RubyJobUtils] <-1> Copying all required files from IDF to IDF
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.Workflow] <-2> Creating workflow with outdir C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run infile C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm epwlocation 
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Workflow] <-2> Workflow contains file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> Analyzing file for URLs to update C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.NormalizeURLs] <-2> time to load idf: 0.077
+[openstudio.runmanager.NormalizeURLs] <-2> Successfully loaded idf file into workspace containing 1093 objects
+[utilities.idf.Workspace] <-2> Url found in file: file:files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[utilities.idf.Workspace] <-2> Url is relative or 'file'
+[utilities.idf.Workspace] <-2> Source URL:  for original URL: file:files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[utilities.idf.Workspace] <1> URL Found in IDF: file:files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw but no source could be located.
+[openstudio.runmanager.NormalizeURLs] <-2> time to locate URL's: 0
+[openstudio.runmanager.NormalizeURLs] <-1> No URLs found in input
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {841ca100-b905-4471-91b2-42903929e119} Null Job
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {1fa7594d-d8e7-402f-ae10-d19cd5132bfd} ModelToIdf
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {71a7af53-e451-49a5-a2b7-0b110843e374} ExpandObjects
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {e060b7db-f33c-48dd-a499-b215315e6578} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {a860706a-443d-41fc-b303-490000f7b4d8} EnergyPlusPreProcess
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {3bb050bd-5847-4407-90cc-1c344c47d635} EnergyPlus
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {3d95487e-bbae-42a2-b4de-e43eff597e8c} UserScript (UserScriptAdapter.rb)
+[openstudio.runmanager.RunManager] <-1> Enqueuing Job: {e5517349-0cc6-4ab5-8b74-b84f62d3ed43} OpenStudioPostProcess
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to user_script.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to resources/os_lib_schedules.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to resources/report.html.erb
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to resources/os_lib_reporting.rb
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 0
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {841ca100-b905-4471-91b2-42903929e119} Null Job
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {841ca100-b905-4471-91b2-42903929e119} Null Job
+[openstudio.runmanager.Null] <-1> Null starting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {1fa7594d-d8e7-402f-ae10-d19cd5132bfd} ModelToIdf
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, filename: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.ModelToIdf] <-1> ModelToIdf starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Starting translation from Version 1.11.0.
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {841ca100-b905-4471-91b2-42903929e119} 2018-Jan-14 22:08:35
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {841ca100-b905-4471-91b2-42903929e119}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {841ca100-b905-4471-91b2-42903929e119}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {841ca100-b905-4471-91b2-42903929e119}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.osversion.VersionTranslator] <-2> Initial model has 1093 objects.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1093 objects in IDF form.
+[utilities.idf.Workspace] <-2> Workspace::isValid called.
+[openstudio.osversion.VersionTranslator] <-2> Final model has 1093 objects in Model form.
+[openstudio.runmanager.ModelToIdf] <-2> Looking for weather file at ModelObject specified location: files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.ModelToIdf] <-2> Completed weatherfile location: files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM base path to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Attempting to use OSM parent path / resources to find weather file
+[openstudio.runmanager.ModelToIdf] <-2> Final selected weatherFile: file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 46', and 'Surface 41' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 77', and 'Surface 70' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 57', and 'Surface 52' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 16', and 'Surface 11' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 28', and 'Surface 21' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 5', and 'Surface 26' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 87', and 'Surface 82' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 81', and 'Surface 88' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 23', and 'Surface 4' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 76', and 'Surface 71' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 63', and 'Surface 72' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 47', and 'Surface 40' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 42', and 'Surface 33' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 51', and 'Surface 58' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 64', and 'Surface 83' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 56', and 'Surface 35' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 12', and 'Surface 3' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 53', and 'Surface 34' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 27', and 'Surface 22' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 17', and 'Surface 10' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <0> Both surfaces 'Surface 65', and 'Surface 86' reference the same construction 'Newinteriorwoodwall' but it is not symmetric, creating a reversed copy.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Conference - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Restroom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - ClosedOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Storage - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Lobby - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - OpenOffice - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - PrintRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Elec/MechRoom - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Vending - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - BreakRoom - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - IT_Room - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Md Office - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Lg Office - CZ1-3 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Corridor - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - Stair - CZ4-8 is not referenced by any space, it will not be translated.
+[openstudio.energyplus.ForwardTranslator] <-1> SpaceType 189.1-2009 - Office - WholeBuilding - Sm Office - CZ1-3 is not referenced by any space, it will not be translated.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Discrete', points to an object named OnOff from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always Off Discrete', points to an object named OnOff 1 from field 1, but that object cannot be located.
+[utilities.idf.WorkspaceObject] <0> Object of type 'Schedule:Constant' and named 'Always On Continuous', points to an object named Fractional 1 from field 1, but that object cannot be located.
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {1fa7594d-d8e7-402f-ae10-d19cd5132bfd} 2018-Jan-14 22:08:35
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {71a7af53-e451-49a5-a2b7-0b110843e374} ExpandObjects
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile in.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {1fa7594d-d8e7-402f-ae10-d19cd5132bfd}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: expandobjects
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Rio de Janeiro-Vila Militar
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: expandobjects version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: expandobjects 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: expandobjects version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0/in.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0/in.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/ExpandObjects.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {71a7af53-e451-49a5-a2b7-0b110843e374} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {e060b7db-f33c-48dd-a499-b215315e6578} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {71a7af53-e451-49a5-a2b7-0b110843e374} 2018-Jan-14 22:08:36
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile expanded.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {71a7af53-e451-49a5-a2b7-0b110843e374}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf to: in-2.idf
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to be installed at: in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio.runmanager.ToolBasedJob] <1> acquireRequiredFiles: Unable to add file From: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw'. Existing required file from: 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw' to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw' already exists.
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm with basepath: 
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to be installed at: in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest/measure.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentName=measures_json
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --argumentValue=[{"arguments":{},"measure":"C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb"}]
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {e060b7db-f33c-48dd-a499-b215315e6578} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {a860706a-443d-41fc-b303-490000f7b4d8} EnergyPlusPreProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {e060b7db-f33c-48dd-a499-b215315e6578} 2018-Jan-14 22:08:36
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile example.json
+[openstudio.runmanager.EnergyPlusPreProcessJob] <-1> EnergyPlusPreProcess starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {e060b7db-f33c-48dd-a499-b215315e6578}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {a860706a-443d-41fc-b303-490000f7b4d8} 2018-Jan-14 22:08:46
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {3bb050bd-5847-4407-90cc-1c344c47d635} EnergyPlus
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile out.idf
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Persisting RequiredFile file:///C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to in.epw
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {a860706a-443d-41fc-b303-490000f7b4d8}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: energyplus
+[openstudio.runmanager.WeatherFileFinder] <-2> Location name field from IDF: Rio de Janeiro-Vila Militar
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: energyplus version: 8.5.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: energyplus 8.5.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: energyplus version: 8.5.0.c87e61b44b
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/Energy+.idd to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: Energy+.idd -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/energyplus.exe
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {3bb050bd-5847-4407-90cc-1c344c47d635} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting error file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.ToolBasedJob] <-2> No osresult file found at: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {3d95487e-bbae-42a2-b4de-e43eff597e8c} UserScript (UserScriptAdapter.rb)
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {3bb050bd-5847-4407-90cc-1c344c47d635} 2018-Jan-14 22:08:46
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.ToolBasedJob] <-1> Starting ToolBasedJob: {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.RubyJob] <-1> Starting job
+[openstudio.runmanager.RubyJob] <-1> Getting files
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf to: in.idf
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.audit
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.bnd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eio
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.end
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.eso
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.mtr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.rdd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.shd
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplusout.sql
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile eplustbl.htm
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile epluszsz.csv
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile sqlite.err
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {3bb050bd-5847-4407-90cc-1c344c47d635}
+[openstudio.runmanager.RubyJob] <-1> Adding required file C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm to: in.osm
+[openstudio.runmanager.RubyJobUtils] <-1> Skipping file, already exists as a required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.RubyJob] <-2>    Required File: in.epw
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.RubyJob] <-2> all input files: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: user_script.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_schedules.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_helper_methods.rb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/report.html.erb
+[openstudio.runmanager.RubyJob] <-2>    Required File: resources/os_lib_reporting.rb
+[openstudio.runmanager.RubyJob] <-1> Found last EpwFile 'in.epw' attached to last EnergyPlus Workspace
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to be installed at: in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.RubyJob] <-1> Found EpwFile in list of required files 'in.epw' preferred over previous relative location of: in.epw
+[openstudio.runmanager.ToolBasedJob] <-1> Starting Tool: ruby
+[openstudio.runmanager.ToolBasedJob] <-1> Requesting Tool: ruby version: -.-.-.-
+[openstudio.runmanager.Tools] <-2> getTool called: ruby -.-.-.-
+[openstudio.runmanager.Tools] <-2> total tools: 10
+[openstudio.runmanager.Tools] <-2> getAllByName returns 1
+[openstudio.runmanager.Tools] <-2> getAllByVersion returns 1
+[openstudio.runmanager.ToolBasedJob] <-1> Got Tool: ruby version: -.-.-.-
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> Examining osm for requirements: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm with basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using basepath: 
+[openstudio.runmanager.ToolBasedJob] <-2> OSM dir did not exist, now using parent resources folder: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436
+[openstudio.runmanager.ToolBasedJob] <-1> Adding OSM requisite file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to be installed at: in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.idf
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> Copying required file from C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb to C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-1> Creating LocalProcess
+[openstudio.runmanager.LocalProcess] <-2> Setting working directory: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/Ruby/openstudio/runmanager/rubyscripts/UserScriptAdapter.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/measure.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_schedules.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_helper_methods.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/report.html.erb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.ToolBasedJob] <-2> Acquired required file: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports/resources/os_lib_reporting.rb -> C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <1> Starting LocalProcess: C:/Program Files/OpenStudio 1.11.0/ruby-install/ruby/bin/ruby.exe
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I.
+[openstudio.runmanager.LocalProcess] <-2> Adding param: -I
+[openstudio.runmanager.LocalProcess] <-2> Adding param: C:/Program Files/OpenStudio 1.11.0/Ruby
+[openstudio.runmanager.LocalProcess] <-2> Adding param: in.rb
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastOpenStudioModelPath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusWorkspacePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEnergyPlusSqlFilePath=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.LocalProcess] <-2> Adding param: --lastEpwFilePathArgument=C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.epw
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processStarted: {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.LocalProcess] <-2> processFinished: 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished: {3d95487e-bbae-42a2-b4de-e43eff597e8c} 0 0
+[openstudio.runmanager.ToolBasedJob] <-2> Attempting to load results for merged job: 0
+[openstudio.runmanager.ToolBasedJob] <-2> Setting osresult files: 1
+[openstudio.runmanager.ToolBasedJob] <-2> ToolBasedJob processFinished, success: Success
+[openstudio.runmanager.ToolBasedJob] <-2> Last Tool Completed: {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio::RunView] <-2> Tree finished, status is: Waiting
+[openstudio.runmanager.RunManager] <-1> Starting job locally: {e5517349-0cc6-4ab5-8b74-b84f62d3ed43} OpenStudioPostProcess
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {3d95487e-bbae-42a2-b4de-e43eff597e8c} 2018-Jan-14 22:09:14
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, filename: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.OpenStudioPostProcessJob] <-1> OpenStudioPostProcess starting, outdir: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile params.json
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.html
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile result.ossr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stderr
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile stdout
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {3d95487e-bbae-42a2-b4de-e43eff597e8c}
+[openstudio.energyplus.SqlFile] <-2> Dictionary Built
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio::RunView] <-2> Tree finished, status is: Running
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Building.
+[openstudio.runmanager.OpenStudioPostProcessJob] <-2> Extracting attributes from model::Facility.
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/expanded.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/example.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in-2.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0/out.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.audit
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.bnd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.eio
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.end
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.eso
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mtd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.mtr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.rdd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.shd
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplustbl.htm
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/epluszsz.csv
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/sqlite.err
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/stdout
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/Energy+.idd
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/params.json
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/report.html
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/result.ossr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/stderr
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/stdout
+[openstudio.runmanager.Job_Impl] <-2> standardClean: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in/files/BRA_RJ_Rio.de.Janeiro-Vila.Militar.868790_INMET.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.epw
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.idf
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.osm
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/in.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_helper_methods.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_reporting.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/os_lib_schedules.rb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/resources/report.html.erb
+[openstudio.runmanager.LocalProcess] <-2> cleanUpRequiredFiles: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0/user_script.rb
+[openstudio.runmanager.Job_Impl] <-2> standardClean skipping output file: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0/report.xml
+[openstudio.runmanager.Job_Impl] <-2> Emitting job finished: {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.Job_Impl] <-2> Date converted: {e5517349-0cc6-4ab5-8b74-b84f62d3ed43} 2018-Jan-14 22:09:30
+[openstudio.runmanager.Job_Impl] <-2> Done Emitting job finished: {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[openstudio.runmanager.RunManager] <-1> RunManager queue paused state changed 1
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run.db) Persisting job status for {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio.runmanager.RunManager] <-2> Persisting JobFile report.xml
+[openstudio.runmanager.RunManager] <-2> Done persisting job, committing {e5517349-0cc6-4ab5-8b74-b84f62d3ed43}
+[openstudio::RunView] <-2> Tree finished, status is: Finished
+[openstudio::RunView] <-2> Tree finished, error getting radout.sql file: getLastByFilename: FileInfo not found: radout.sql
+[openstudio::RunView] <-2> Emitting results generated for sqlfile: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql and radiance file 
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[openstudio::ResultsTabController] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run
+[openstudio::ResultsTabView] <-2> searchForExistingResults C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run
+[openstudio::ResultsView] <-2> Looking for existing results in: C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run
+[openstudio::ResultsView] <-2> resultsGenerated C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0/eplusout.sql 
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources to D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/0-Null' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/0-Null'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/1-ModelToIdf-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/1-ModelToIdf-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/2-ExpandObjects-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/2-ExpandObjects-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/3-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/3-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/4-EnergyPlusPreProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/4-EnergyPlusPreProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/5-EnergyPlus-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/5-EnergyPlus-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/6-UserScript-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/6-UserScript-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/run/7-OpenStudioPostProcess-0' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/run/7-OpenStudioPostProcess-0'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/scripts' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files' to 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files'
+[synchDirStructures] <-1> Synching destination 'D:/Politec/1st year/1st semester/Environmental systems/Our building/Again/Open studio files/Step11 Rio/files' with source 'C:/Users/Mohie/AppData/Local/Temp/OpenStudio.zy1436/resources/files'
