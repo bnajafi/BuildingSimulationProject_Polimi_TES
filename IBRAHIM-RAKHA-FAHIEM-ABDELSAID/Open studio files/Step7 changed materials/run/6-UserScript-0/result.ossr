@@ -1,0 +1,1624 @@
+<OSResult>
+  <Value>Success</Value>
+  <InitialCondition>
+    <LogMessage>
+      <Channel>openstudio.ruleset.OpenStudio Results</Channel>
+      <Message>Gathering data from EnergyPlus SQL file and OSM model.</Message>
+    </LogMessage>
+  </InitialCondition>
+  <FinalCondition>
+    <LogMessage>
+      <Channel>openstudio.ruleset.OpenStudio Results</Channel>
+      <Message>Generated report with 21 sections to ./report.html.</Message>
+    </LogMessage>
+  </FinalCondition>
+  <Attributes>
+    <Attribute>
+      <UUID>{e2e6c29e-17e2-41fb-90cc-457da8678d4a}</UUID>
+      <VersionUUID>{b8d47c7c-0a87-4c4f-af95-82aaa7741735}</VersionUUID>
+      <Name>building_summary_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{5be2939c-ff93-45f0-bede-d4b7b11646f3}</UUID>
+      <VersionUUID>{4f0d5897-9b54-4039-8f73-85641c4761b6}</VersionUUID>
+      <Name>annual_overview_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{d248110b-29ce-4bbb-8340-ed3dbafd5ffe}</UUID>
+      <VersionUUID>{43c593a3-49a9-4caf-8843-1e98133fd99b}</VersionUUID>
+      <Name>monthly_overview_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{214c79da-1dc3-46d1-b961-2b61f094e4fa}</UUID>
+      <VersionUUID>{ad31aea5-f079-4125-bb83-28a60dbf5dfd}</VersionUUID>
+      <Name>utility_bills_rates_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{7c1fb5f3-7879-44ce-b276-237e47d17580}</UUID>
+      <VersionUUID>{3954ac81-2e3a-4614-96bd-3345b294875f}</VersionUUID>
+      <Name>envelope_section_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{bb15fa28-f8cd-449f-b750-30c924e0a9d7}</UUID>
+      <VersionUUID>{bc0dfa39-7a8d-4496-8d9a-1795be571e1c}</VersionUUID>
+      <Name>space_type_breakdown_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{79271175-6b81-4e2a-b468-ee324bbab985}</UUID>
+      <VersionUUID>{e84555e0-e290-47da-8997-191591b53cbe}</VersionUUID>
+      <Name>space_type_details_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{9a805f38-7eee-470e-afb7-6a3ca6f90de9}</UUID>
+      <VersionUUID>{0834a755-e5bb-47e7-8776-e33f1f4b70ae}</VersionUUID>
+      <Name>interior_lighting_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{58ebe929-9570-4e56-9c24-1ec3252cb15a}</UUID>
+      <VersionUUID>{5b056240-ebae-4cb7-8751-f66a64956cf1}</VersionUUID>
+      <Name>plug_loads_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{a1f77174-7011-4236-8403-265814eef119}</UUID>
+      <VersionUUID>{661dd893-b0b3-4cd8-b1ac-e88d97c712c0}</VersionUUID>
+      <Name>exterior_light_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{da6e53aa-8bdb-4d7a-a13f-ea442ee795b5}</UUID>
+      <VersionUUID>{22a07240-bdd0-4575-bf72-83a329aa931f}</VersionUUID>
+      <Name>water_use_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{d23195c6-3a52-49e4-851f-4e5a1ff865a6}</UUID>
+      <VersionUUID>{fe4c70ea-651b-43d4-a754-370c749c938b}</VersionUUID>
+      <Name>hvac_load_profile</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{e6264ed1-7c90-4374-9124-0b454021ab01}</UUID>
+      <VersionUUID>{03d884fb-71f9-46b7-88c0-ae744bab2924}</VersionUUID>
+      <Name>zone_condition_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{ae030196-d0c8-492d-9d6f-883ff28e3d1e}</UUID>
+      <VersionUUID>{3f5bcbd3-290e-4cd1-95b6-56b3241f5c48}</VersionUUID>
+      <Name>zone_summary_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{79955fa3-8679-42c6-a77d-d63990b669cf}</UUID>
+      <VersionUUID>{0b2566ea-53de-489a-9030-8d43d6463e1e}</VersionUUID>
+      <Name>zone_equipment_detail_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{1a9bfa37-c3ad-452f-b11e-9bfbb8b3770c}</UUID>
+      <VersionUUID>{8848dc56-db13-481c-9883-d08c350c94cb}</VersionUUID>
+      <Name>air_loops_detail_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{a2401d7c-5c24-4b80-a656-313e78720291}</UUID>
+      <VersionUUID>{320cc8ce-4480-446b-8adf-99ec5dfcee97}</VersionUUID>
+      <Name>plant_loops_detail_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{550aa1bb-fbd9-4944-b5f8-092768fb940f}</UUID>
+      <VersionUUID>{6cfbf5c4-f8f0-4f7d-8d28-5085785ae5c1}</VersionUUID>
+      <Name>outdoor_air_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{6a03eae7-d360-4b89-ad22-0acb1bff571a}</UUID>
+      <VersionUUID>{9493ddd3-ea41-4a19-9f3e-a744d778a2cf}</VersionUUID>
+      <Name>cost_summary_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{8fa4cf2c-3855-4008-8f9f-6328b9372a8b}</UUID>
+      <VersionUUID>{a48910fd-9a34-4eaf-ac36-cb2688356575}</VersionUUID>
+      <Name>source_energy_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{0d9dfd67-d9bc-42dc-8d10-fa210bc3d43f}</UUID>
+      <VersionUUID>{b6752ac6-fc57-4ce5-9b80-e8b7aea229b0}</VersionUUID>
+      <Name>schedules_overview_section</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Boolean</ValueType>
+      <Value>true</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{c3d54a7e-a95a-416e-a59a-d41d358b51cc}</UUID>
+      <VersionUUID>{f3b0a223-945c-4b43-9d0f-b3a47ce145da}</VersionUUID>
+      <Name>building_name</Name>
+      <DisplayName>Building 1</DisplayName>
+      <Source>OpenStudio Results</Source>
+      <ValueType>String</ValueType>
+      <Value>building_name</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{aea1f429-dc2d-4185-81a9-cc8fa7ae9742}</UUID>
+      <VersionUUID>{42f7ade5-6dc9-4097-8952-8b0f06778a52}</VersionUUID>
+      <Name>net_site_energy</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>2198139.55274583</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{511b6cde-9f5d-48ff-9c2a-0565e6397058}</UUID>
+      <VersionUUID>{edfb4b26-0cba-4c84-9dcd-ec783e0d3e36}</VersionUUID>
+      <Name>total_building_area</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>33906.3178126356</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1f9d1e2f-695c-4a57-9821-27c2ef9c965c}</UUID>
+      <VersionUUID>{b6f28977-e39d-4425-97a7-5c59cc032b0a}</VersionUUID>
+      <Name>eui</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>64.8297926331201</Value>
+      <Units>kBtu/ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e4cdfff0-2c9d-47d5-bbb5-d4917d6fd10a}</UUID>
+      <VersionUUID>{9baf9c84-7fc5-40ee-b632-8c9479b0f8d8}</VersionUUID>
+      <Name>unmet_hours_during_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>hr</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{221e9390-f55e-4848-afec-6943c11b1c98}</UUID>
+      <VersionUUID>{3bc3cf9c-1122-4fa1-b3a5-65ac1c4dccaf}</VersionUUID>
+      <Name>unmet_hours_during_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>hr</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{df728031-a504-4577-a539-0702465eb19f}</UUID>
+      <VersionUUID>{911fe7ce-6f11-4fb7-99b0-52ec679f85e0}</VersionUUID>
+      <Name>unmet_hours_during_occupied_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>hr</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{7d47d3b5-7e54-4497-88e5-37b7966c5006}</UUID>
+      <VersionUUID>{a7c92451-7e9b-40cb-bb09-c45353ebeec1}</VersionUUID>
+      <Name>unmet_hours_during_occupied_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>hr</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e42f80ef-4f4a-4b5c-8731-a93c5f4b2871}</UUID>
+      <VersionUUID>{cb637382-a987-4245-b189-737d5df23d87}</VersionUUID>
+      <Name>unmet_hours_tolerance_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0.36</Value>
+      <Units>F</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3599562b-cf1a-40f1-b300-eaee49198b32}</UUID>
+      <VersionUUID>{c10bc321-4707-45d7-814b-1e0ef22d67af}</VersionUUID>
+      <Name>unmet_hours_tolerance_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0.36</Value>
+      <Units>F</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{6960c2d7-e792-4950-b129-c9406a641032}</UUID>
+      <VersionUUID>{6bfa0caf-d5a7-4d08-8998-970c93af3967}</VersionUUID>
+      <Name>end_use_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>311196.795112471</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c59e7d48-bca9-4eb6-98f8-03d1ebb4cb50}</UUID>
+      <VersionUUID>{ab9c1377-8942-42f8-9252-1cdfcd879b76}</VersionUUID>
+      <Name>end_use_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>541961.829395155</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c5e80b08-daff-4e70-b268-abc991a63b76}</UUID>
+      <VersionUUID>{c2ef3b27-aa77-4cd4-9b17-5073fc45c067}</VersionUUID>
+      <Name>end_use_interior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>378994.153728483</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{15b7180b-62c8-4308-bef1-24637699a82f}</UUID>
+      <VersionUUID>{4c072354-c644-4c77-89c8-7e0f0d2d1507}</VersionUUID>
+      <Name>end_use_exterior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{0d1b4cfc-f693-4c8e-980d-787a016cf277}</UUID>
+      <VersionUUID>{e1425fe3-8b55-423c-b3a3-45c5b66c2a15}</VersionUUID>
+      <Name>end_use_interior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>965977.29633852</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c243361b-4754-4a44-ace3-bb712f4ea261}</UUID>
+      <VersionUUID>{a903131e-2656-4c32-8afe-86cf03fe0e29}</VersionUUID>
+      <Name>end_use_exterior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{4b93e08d-4d7d-48dc-892a-41d790d8af6e}</UUID>
+      <VersionUUID>{30645396-62c1-4b80-aa17-b03da4e79135}</VersionUUID>
+      <Name>end_use_fans</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3df5ba6d-217c-4585-962f-135a8f0b6e27}</UUID>
+      <VersionUUID>{b2e2ee0f-f929-494f-8157-cfa3e030dd4a}</VersionUUID>
+      <Name>end_use_pumps</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{59fe376c-2e88-4f1c-a790-fad3863f7c47}</UUID>
+      <VersionUUID>{ac4d3be2-1c52-4d31-8838-87e8755170c7}</VersionUUID>
+      <Name>end_use_heat_rejection</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1e512ab0-8537-4c60-a1ba-ea648f288d71}</UUID>
+      <VersionUUID>{5c9749f6-3bc0-4d69-aaa7-a4762267ed70}</VersionUUID>
+      <Name>end_use_humidification</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{6991bce3-4b75-485c-821f-406f299b3eac}</UUID>
+      <VersionUUID>{c5801d61-42a9-43df-9298-fc84bf3613d0}</VersionUUID>
+      <Name>end_use_heat_recovery</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b9b7d79d-b038-44be-b453-98601e42b052}</UUID>
+      <VersionUUID>{a6027a06-9312-4430-bfa9-c31cd31b3821}</VersionUUID>
+      <Name>end_use_water_systems</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e5505a0e-7329-473d-99c7-c50dfb9b9318}</UUID>
+      <VersionUUID>{3d966075-c26b-4694-9f39-d31cd6dd0358}</VersionUUID>
+      <Name>end_use_refrigeration</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{d8f73684-2d94-4f48-9fb7-c2e9ee67f996}</UUID>
+      <VersionUUID>{a29150d0-6bbe-4520-af58-02c2b1896416}</VersionUUID>
+      <Name>end_use_generators</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{82eadab8-bb16-4a90-80b2-27620be818dd}</UUID>
+      <VersionUUID>{f3371354-192b-47c5-a10d-2d73c35b6a6f}</VersionUUID>
+      <Name>fuel_electricity</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>1344980.92823821</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e9fd52a8-02d8-4821-8000-f64ff63d56e8}</UUID>
+      <VersionUUID>{d3ebd61a-f4b1-4d22-a8fb-6de938124d1d}</VersionUUID>
+      <Name>fuel_natural_gas</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3385be8e-6c37-40a5-8a94-72a45164ebf9}</UUID>
+      <VersionUUID>{781876c9-d347-44c0-8d90-d54111a11463}</VersionUUID>
+      <Name>fuel_additional_fuel</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3b40a088-901d-44ed-8082-bb776e8cbc23}</UUID>
+      <VersionUUID>{1bdf902c-5430-445b-b65d-a3639ce7d72c}</VersionUUID>
+      <Name>fuel_district_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>541961.829395155</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{6d358078-a387-4ad9-92c2-b0becbb07dfe}</UUID>
+      <VersionUUID>{e6af9d87-13c3-40fb-8d3d-c62b44a5dc9b}</VersionUUID>
+      <Name>fuel_district_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>311196.795112471</Value>
+      <Units>kBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1844e524-61c1-4d3f-83af-9a77233c6a2d}</UUID>
+      <VersionUUID>{da81c562-775f-4010-ab67-c3248936e89e}</VersionUUID>
+      <Name>end_use_electricity_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e3eba595-a907-438a-98c8-f60d324827fc}</UUID>
+      <VersionUUID>{8d6ef372-d779-4279-bd85-6d2ebd51c565}</VersionUUID>
+      <Name>end_use_electricity_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{a0e4566c-1f9c-4d29-995c-65c6088b37e9}</UUID>
+      <VersionUUID>{ae7b496e-0a6f-4dab-9312-44acfae11478}</VersionUUID>
+      <Name>end_use_electricity_interior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>111072.222222222</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{eac045d1-55e0-4a6b-8901-aa75f7e11206}</UUID>
+      <VersionUUID>{b8da073b-9d5b-44c5-b81e-24c756557c23}</VersionUUID>
+      <Name>end_use_electricity_exterior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ddd7b678-62f4-493e-9dc4-e8727fe3cbc3}</UUID>
+      <VersionUUID>{7304cbac-22df-477a-93e1-3499e333d246}</VersionUUID>
+      <Name>end_use_electricity_interior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>283100</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{fd742a72-3bdb-438c-ba6d-4dc05a430333}</UUID>
+      <VersionUUID>{c23c85fa-2214-4004-9f7b-cbb019e30623}</VersionUUID>
+      <Name>end_use_electricity_exterior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{9e269ab8-326f-4813-9d01-25fd55eb0033}</UUID>
+      <VersionUUID>{85594d14-a6d9-4a3f-b768-e240e26bdf96}</VersionUUID>
+      <Name>end_use_electricity_fans</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f04ef017-62c3-4c27-baeb-a1243b100147}</UUID>
+      <VersionUUID>{9e61c767-8baf-467f-a6fd-fae585a9f1aa}</VersionUUID>
+      <Name>end_use_electricity_pumps</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{013f0f3a-1fc6-4e33-96a5-fa39fdbe0e7a}</UUID>
+      <VersionUUID>{b11ec80f-8545-4167-8e68-e40754f815f6}</VersionUUID>
+      <Name>end_use_electricity_heat_rejection</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ec45cc3f-e203-445c-b76c-0686ce3ead41}</UUID>
+      <VersionUUID>{7ef446c2-c943-4e11-be14-7edfed2c55c9}</VersionUUID>
+      <Name>end_use_electricity_humidification</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{fa1f187a-43bb-4c26-b2c4-28c65459a015}</UUID>
+      <VersionUUID>{699e54ae-3814-45fb-9351-af396ed95ebf}</VersionUUID>
+      <Name>end_use_electricity_heat_recovery</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e48271a1-aeb5-40af-98b1-e4da8aff54d0}</UUID>
+      <VersionUUID>{bcafa80b-1671-4bd4-91c2-88dc268a9d22}</VersionUUID>
+      <Name>end_use_electricity_water_systems</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b5ff9d3e-c79e-4cbf-a33b-489fbbf874fb}</UUID>
+      <VersionUUID>{92865014-6dd7-4d0a-9ed1-22a11ab257be}</VersionUUID>
+      <Name>end_use_electricity_refrigeration</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3b3087d6-337e-4e3f-891c-66df4b74936d}</UUID>
+      <VersionUUID>{924da4d4-b7ab-4a82-b149-5e18026120e9}</VersionUUID>
+      <Name>end_use_electricity_generators</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1612918d-9865-4844-89cf-d7e6f1380595}</UUID>
+      <VersionUUID>{28ecec6b-d064-4650-8e85-158044f7f7f2}</VersionUUID>
+      <Name>end_use_natural_gas_heating</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{dfd4d18c-3345-4fdd-b596-a28796acbbb0}</UUID>
+      <VersionUUID>{e6d6c6fb-5c9b-4b75-bc75-381115435c93}</VersionUUID>
+      <Name>end_use_natural_gas_cooling</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{966e2cf2-3ba8-461c-9bd1-fea75024434e}</UUID>
+      <VersionUUID>{7f547735-88f9-4bf0-9694-234dc0f3c20b}</VersionUUID>
+      <Name>end_use_natural_gas_interior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1aa697cf-f08f-408b-9baf-e93248936258}</UUID>
+      <VersionUUID>{a10bd363-3116-405a-898e-b8c70a7c425b}</VersionUUID>
+      <Name>end_use_natural_gas_exterior_lighting</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{4f914b99-2ac4-433f-a2de-8a9410b1d5b7}</UUID>
+      <VersionUUID>{01bd2935-dc38-450f-80f7-b24de2c3126a}</VersionUUID>
+      <Name>end_use_natural_gas_interior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c27c2e8d-7e22-4b14-8ee6-72f84b688cbc}</UUID>
+      <VersionUUID>{509dc8ce-85f5-4e0b-b5ae-d95c69d20268}</VersionUUID>
+      <Name>end_use_natural_gas_exterior_equipment</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{5c29e4eb-d3f1-42c0-aa87-8946cb35fe49}</UUID>
+      <VersionUUID>{153c0313-1684-4482-8794-22edfc947b39}</VersionUUID>
+      <Name>end_use_natural_gas_fans</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{d14f9d07-dcbf-4588-8583-f11b6bdf645a}</UUID>
+      <VersionUUID>{b0869b9d-a943-426e-8002-3c3e9b8d021f}</VersionUUID>
+      <Name>end_use_natural_gas_pumps</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{8c4f2c45-85cc-4d58-b9a9-5bf1a6f03dce}</UUID>
+      <VersionUUID>{71bda297-fe85-4269-9411-8bc720af75f9}</VersionUUID>
+      <Name>end_use_natural_gas_heat_rejection</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f9bc1994-21a1-4166-bed1-d02c1c87346b}</UUID>
+      <VersionUUID>{b4ad69b0-fe16-4de6-8523-9dd063852e5f}</VersionUUID>
+      <Name>end_use_natural_gas_humidification</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{642d6bbc-ae8f-4dab-8b44-41adc5df5251}</UUID>
+      <VersionUUID>{f80087e2-9036-41ca-8011-80a0c2a1060d}</VersionUUID>
+      <Name>end_use_natural_gas_heat_recovery</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{4d75a808-1735-4197-b2e7-9edd8fdbf76c}</UUID>
+      <VersionUUID>{bd34478f-5ae9-42a4-8954-9c327340288d}</VersionUUID>
+      <Name>end_use_natural_gas_water_systems</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{1c5806d9-f5cd-4b2f-a0e9-e1c61c25673f}</UUID>
+      <VersionUUID>{95748f4c-21df-49dc-a0d5-2f831e1120bf}</VersionUUID>
+      <Name>end_use_natural_gas_refrigeration</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{467a7cb2-1fec-428b-bede-5d8a95591ce7}</UUID>
+      <VersionUUID>{a6562309-bf8d-43d3-b7e4-35521931ef7a}</VersionUUID>
+      <Name>end_use_natural_gas_generators</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>therms</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{cd2d07f2-f440-4494-b00a-9fc49bfd1205}</UUID>
+      <VersionUUID>{718bff9e-db1e-4f81-a2a4-142d2e918508}</VersionUUID>
+      <Name>electricity_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{05bbe068-3264-4e8c-a572-7a6628268428}</UUID>
+      <VersionUUID>{2fa685ed-bc2a-4930-b2a2-183327bc1b7a}</VersionUUID>
+      <Name>electricity_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{0d615694-d3c8-4185-9120-f19673ad048d}</UUID>
+      <VersionUUID>{293348a3-70e8-4ad9-ba09-c8dad6a7ae82}</VersionUUID>
+      <Name>electricity_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>111073.083333333</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{bf4d06da-41c0-480d-ae5a-20d921748557}</UUID>
+      <VersionUUID>{b50f23f6-52a2-413b-b4d8-b11c8c4c4ed8}</VersionUUID>
+      <Name>electricity_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{33ff8d02-960c-4f66-b07f-7ff3236aa8db}</UUID>
+      <VersionUUID>{cf2a163a-0d9d-4ea0-88cd-495de1a80644}</VersionUUID>
+      <Name>electricity_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>283100.777777778</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c64246ee-0bce-43e0-8c3b-1b9da84a818f}</UUID>
+      <VersionUUID>{6dea8cb4-cb45-404b-8992-f980c421d31e}</VersionUUID>
+      <Name>electricity_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{12809cfb-b126-4d36-8055-555f305b1205}</UUID>
+      <VersionUUID>{e4ef7c54-6421-4dbc-a450-6196d653b06b}</VersionUUID>
+      <Name>electricity_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{37e5ed2f-5ff9-4d4b-8067-47b5b8c92b01}</UUID>
+      <VersionUUID>{813b9981-f7ef-472d-8056-2dfa5fa1b996}</VersionUUID>
+      <Name>electricity_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{5a86e182-3b15-4e1c-a0a7-21f72c5707d1}</UUID>
+      <VersionUUID>{6860c028-c9b2-4571-abe3-f53ec733c34c}</VersionUUID>
+      <Name>electricity_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{7d31a2f1-8fb1-4179-a346-2e53508bd177}</UUID>
+      <VersionUUID>{e7f151db-f075-4131-b2ee-cd745c54668e}</VersionUUID>
+      <Name>electricity_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{2092b0fb-e4c7-4ca6-90d9-e8336a00c04e}</UUID>
+      <VersionUUID>{72c79780-2b25-487b-9596-eeab77e6b86a}</VersionUUID>
+      <Name>electricity_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b2ad78b7-dc3d-477e-bcc9-31dfca9a16bc}</UUID>
+      <VersionUUID>{80e11850-09e9-4046-bec2-abe43cf706f4}</VersionUUID>
+      <Name>electricity_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{642ac7a4-2abe-4a5f-85c0-fcf15ee77dac}</UUID>
+      <VersionUUID>{6b86c1d4-82cf-4d2d-b205-7c071a6ad3bf}</VersionUUID>
+      <Name>electricity_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c6928d1b-d0f3-43ca-9bc7-9bf3b6293ecb}</UUID>
+      <VersionUUID>{24b58899-9eeb-4dac-a73b-4fd4582a1a0b}</VersionUUID>
+      <Name>electricity_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{5f72ad90-134d-4fa7-932d-397ac271969f}</UUID>
+      <VersionUUID>{e9c4e39e-8dde-45d1-a07d-8dce3c3fad08}</VersionUUID>
+      <Name>electricity_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>394173.861111111</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{90a636a2-9814-44cc-b06d-795411548c04}</UUID>
+      <VersionUUID>{27b632d7-3d13-4e46-8965-0df7b5a3d18f}</VersionUUID>
+      <Name>natural_gas_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{539df48c-9865-415b-a117-7cc975994980}</UUID>
+      <VersionUUID>{b2014869-c916-4358-a5dd-caa80d709571}</VersionUUID>
+      <Name>natural_gas_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{4670628f-2e90-4e5e-9020-75d065ee6df6}</UUID>
+      <VersionUUID>{a7a5dcc6-3f99-4614-b643-90c7113bf8de}</VersionUUID>
+      <Name>natural_gas_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b770e47f-c95b-4624-bf3d-79af11a2b504}</UUID>
+      <VersionUUID>{476ac1b9-4ccc-47da-b531-5550884e44fc}</VersionUUID>
+      <Name>natural_gas_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{8ee91c98-c9f4-4840-af38-2e94fb6c804c}</UUID>
+      <VersionUUID>{ff89da11-6211-4767-a3c5-c04b2c6f13cf}</VersionUUID>
+      <Name>natural_gas_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{a461f01c-dde3-41ca-a1f8-30ae9eff32de}</UUID>
+      <VersionUUID>{d2c30d54-9e57-438c-8fcc-af577116743d}</VersionUUID>
+      <Name>natural_gas_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f171fe01-7417-4675-86a6-b0bfd1f55d82}</UUID>
+      <VersionUUID>{53b438ad-2e2b-4b56-a168-7bb3869b1653}</VersionUUID>
+      <Name>natural_gas_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{a54a647a-d5b3-40a7-a03a-d3907d0688a6}</UUID>
+      <VersionUUID>{2c533290-bb0b-4426-83fb-a60a1530773e}</VersionUUID>
+      <Name>natural_gas_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{06e63237-6c9c-4d86-a02d-bf59324d441a}</UUID>
+      <VersionUUID>{6ac6ceae-38ad-4627-89c8-e1aa5c0bfedc}</VersionUUID>
+      <Name>natural_gas_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{d28dffe7-034f-4b20-ae4d-83316f90e405}</UUID>
+      <VersionUUID>{4e8a7928-1563-469b-8e26-055e2b09694c}</VersionUUID>
+      <Name>natural_gas_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{99aca1d5-7d5c-44ce-9a97-c10437ba21c1}</UUID>
+      <VersionUUID>{beb6b303-b1a8-460b-9606-8bfe23da18b0}</VersionUUID>
+      <Name>natural_gas_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b879bb91-8c7f-40d7-9f7f-d898d1418ba3}</UUID>
+      <VersionUUID>{3a56d560-d328-44e3-b3e0-897c027f4f59}</VersionUUID>
+      <Name>natural_gas_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3d7b446a-60d8-4f48-8237-e157199ad419}</UUID>
+      <VersionUUID>{95e374ca-962b-483b-a1ed-ec45fff7071a}</VersionUUID>
+      <Name>natural_gas_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{87ffecc4-bfde-452b-bb26-36c545e20773}</UUID>
+      <VersionUUID>{52c5fe39-c248-4fc4-af37-f1c93cc61782}</VersionUUID>
+      <Name>natural_gas_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{895ca879-ad7f-4ab7-aee1-3e674cb5030a}</UUID>
+      <VersionUUID>{4c835816-2c6d-42bc-b978-31ad3c20a357}</VersionUUID>
+      <Name>natural_gas_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{98d1d9a5-a0b6-42cb-9c77-8c5009a54016}</UUID>
+      <VersionUUID>{6d294489-1747-41a6-bf7f-795001fec02f}</VersionUUID>
+      <Name>additional_fuel_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{732573f0-4df3-4ae1-9aae-69094c00bd57}</UUID>
+      <VersionUUID>{16e7be52-e810-4c4d-a38e-1ca388185166}</VersionUUID>
+      <Name>additional_fuel_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{d3bef396-f9fc-4c69-b42c-7b2da83f2d73}</UUID>
+      <VersionUUID>{da54be3d-ce62-449b-8a81-9b9190435c83}</VersionUUID>
+      <Name>additional_fuel_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{8cab42b4-f92d-4e2a-930a-33ab1678d3a3}</UUID>
+      <VersionUUID>{cf02f8d8-0189-4e64-90c7-96b7a328b235}</VersionUUID>
+      <Name>additional_fuel_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ab8254af-a921-4307-96fd-c12a8686947b}</UUID>
+      <VersionUUID>{1a4c6167-c4f2-4c0f-8fd3-86e5507079a1}</VersionUUID>
+      <Name>additional_fuel_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{6c64b5dc-1ada-4736-a8e2-9c5231427619}</UUID>
+      <VersionUUID>{809a1f01-3277-47d1-89b3-e6d069c5a2a4}</VersionUUID>
+      <Name>additional_fuel_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f04133c6-f791-4f09-b217-524f12301320}</UUID>
+      <VersionUUID>{9a9a148f-ef3c-4d65-b03a-6ab93e988e64}</VersionUUID>
+      <Name>additional_fuel_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{5db7c871-f20e-4da0-96e0-7953a89a0d7c}</UUID>
+      <VersionUUID>{71e2e4f8-234b-41c6-bc28-0f213a3e877c}</VersionUUID>
+      <Name>additional_fuel_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e818bc22-7312-4007-82a2-784c183b4879}</UUID>
+      <VersionUUID>{214c33ba-e437-45a1-a800-34e2993dfd71}</VersionUUID>
+      <Name>additional_fuel_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{a887bb6c-b336-4226-8b9b-621db1aaa073}</UUID>
+      <VersionUUID>{d8f30b25-b73d-41c2-8b70-168e60d32a16}</VersionUUID>
+      <Name>additional_fuel_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{2ae94dd3-9e65-462f-9472-3a55ae7e9111}</UUID>
+      <VersionUUID>{b907e26d-fb93-4a60-a368-2d7d3988e825}</VersionUUID>
+      <Name>additional_fuel_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c5b5ace9-4b3d-4b5b-abe6-f518928abc7e}</UUID>
+      <VersionUUID>{444c3786-3d3c-452f-bf9e-734081f79b08}</VersionUUID>
+      <Name>additional_fuel_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{65c46b65-4c31-43c4-b4f6-86415bcbe760}</UUID>
+      <VersionUUID>{4b57f5d3-5263-4b7a-8c40-d3e78130faf7}</VersionUUID>
+      <Name>additional_fuel_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e829d37c-cfc5-4128-97ee-25df05d7707b}</UUID>
+      <VersionUUID>{2e38f8df-9a44-4dd9-96d6-d578071a4c37}</VersionUUID>
+      <Name>additional_fuel_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{729c4a75-0d9a-49ce-81d9-23a1014457ce}</UUID>
+      <VersionUUID>{36b501ac-5955-466b-82ea-45603d681f92}</VersionUUID>
+      <Name>additional_fuel_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{df04c3ac-c015-4fda-b3a7-0fc6bd9585fa}</UUID>
+      <VersionUUID>{27771940-c74f-41bb-b1ad-c6aaa09cfabc}</VersionUUID>
+      <Name>district_cooling_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{8499d449-6672-4b53-bb2f-f027a5231a4c}</UUID>
+      <VersionUUID>{47109540-a59f-4e1a-9ada-83d35948e57a}</VersionUUID>
+      <Name>district_cooling_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>541.959222898074</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{dc5d13f5-f7a8-4d78-99f6-0cfa71190a4a}</UUID>
+      <VersionUUID>{22fcef2f-281a-4832-9752-db060a8b0807}</VersionUUID>
+      <Name>district_cooling_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{fa5cfb67-fb65-45f5-83b0-976ba3ffc699}</UUID>
+      <VersionUUID>{205565ee-9be3-48e7-aba5-abeac60ce905}</VersionUUID>
+      <Name>district_cooling_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ec3ef511-81a6-4d20-a4d4-cf0d0d59af7a}</UUID>
+      <VersionUUID>{83a95d5e-19e8-4646-80c4-238aa86c7b2d}</VersionUUID>
+      <Name>district_cooling_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{763ff669-9ff9-4975-b873-5f0eba0bee8c}</UUID>
+      <VersionUUID>{b5964815-dd01-496b-b79f-b9aeccf54649}</VersionUUID>
+      <Name>district_cooling_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b13afd39-2f5b-4039-bb97-972694941b2e}</UUID>
+      <VersionUUID>{0135f663-67dc-46fe-b33d-ebb6d82e20d2}</VersionUUID>
+      <Name>district_cooling_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{64b12925-1c37-48c2-80b6-699ad7977298}</UUID>
+      <VersionUUID>{b4ed2e1d-b760-4a6a-84ca-342f1ef11079}</VersionUUID>
+      <Name>district_cooling_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b7c9eed7-4016-42d4-89d9-50eee0351676}</UUID>
+      <VersionUUID>{1f37e865-22cf-4d79-9e99-d75c9748b5bf}</VersionUUID>
+      <Name>district_cooling_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3c9f7c78-c11d-4e99-abe4-058350a33ba4}</UUID>
+      <VersionUUID>{7efbaaf1-4c47-4cec-af29-03b579844c09}</VersionUUID>
+      <Name>district_cooling_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{35918ac2-1c0e-4224-88fe-6b1d89451e89}</UUID>
+      <VersionUUID>{7139d9e9-c614-4f0c-a6fb-50d26c160cfd}</VersionUUID>
+      <Name>district_cooling_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{21c2c1f0-31d7-4214-a979-a9b8d3666e69}</UUID>
+      <VersionUUID>{c885e1d0-045f-4f44-b9f8-ac7150bd50cb}</VersionUUID>
+      <Name>district_cooling_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{bd9c2f52-4969-45c9-8ee5-e37fe65e7230}</UUID>
+      <VersionUUID>{4a83cc9d-9425-493f-b326-de4a79398362}</VersionUUID>
+      <Name>district_cooling_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ba5cd78b-ea1e-4892-88ce-1a250cecfa70}</UUID>
+      <VersionUUID>{2aa8e725-0351-4bc0-90b0-a398862ae812}</VersionUUID>
+      <Name>district_cooling_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ba5af0ff-56aa-48ca-a2b2-20ee4143aca9}</UUID>
+      <VersionUUID>{27d5a017-6b9a-40bf-a781-3f8b30a8d5aa}</VersionUUID>
+      <Name>district_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>541.959222898074</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{277fc173-4bd6-41ce-9111-93c93fc7501d}</UUID>
+      <VersionUUID>{ff8478b0-f241-409b-8ffa-e2fe88da4b97}</VersionUUID>
+      <Name>district_heating_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>311.201317034546</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{8b302a41-d8b4-46cb-9c23-221794e08272}</UUID>
+      <VersionUUID>{eaa235cd-5ea1-4413-8f7a-011a6ccc749a}</VersionUUID>
+      <Name>district_heating_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{9266b674-f0cb-4af3-bde0-7b285fba2a41}</UUID>
+      <VersionUUID>{639076ed-a86d-4d68-a0e9-dfecac0714fc}</VersionUUID>
+      <Name>district_heating_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b12e8d1a-60dd-4704-ae6a-b62144c429ca}</UUID>
+      <VersionUUID>{4e943858-b4fe-4d13-88c3-b44741c7aca7}</VersionUUID>
+      <Name>district_heating_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b6fd8c48-a344-41d9-b06b-48008f30b06f}</UUID>
+      <VersionUUID>{3a81e1af-845a-420f-a029-b846293b8337}</VersionUUID>
+      <Name>district_heating_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f7a0d51f-fce5-475f-9e06-d7c1368f55f7}</UUID>
+      <VersionUUID>{1a7b0d6f-01b4-4114-a16b-9975eb231a02}</VersionUUID>
+      <Name>district_heating_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{86abafb3-42df-43c7-8ebb-04458579a0c3}</UUID>
+      <VersionUUID>{52e94759-257c-405e-85f5-df4ff998e62c}</VersionUUID>
+      <Name>district_heating_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{a05fa226-e24f-404f-99ba-c47874354d99}</UUID>
+      <VersionUUID>{9e5404ff-ac43-4866-ae47-68a8c6767e42}</VersionUUID>
+      <Name>district_heating_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{92347c62-37fd-489f-b9b2-7751587c2187}</UUID>
+      <VersionUUID>{07eebabf-ca8e-41d0-a345-a825d72dc15a}</VersionUUID>
+      <Name>district_heating_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c855b355-b1e0-4f6c-b57c-6eaf4c21128b}</UUID>
+      <VersionUUID>{0d4e0718-d150-4085-bc47-5c95be88eb4e}</VersionUUID>
+      <Name>district_heating_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{922e5c25-456f-40b3-9cc3-b3a1b748a52b}</UUID>
+      <VersionUUID>{8116bed2-30aa-40fc-b1ee-eb4b9ab15319}</VersionUUID>
+      <Name>district_heating_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{d890d5f3-85e0-4e00-8ce3-136845ebd1b6}</UUID>
+      <VersionUUID>{591f8556-8b19-482a-8177-adf9a05a2c97}</VersionUUID>
+      <Name>district_heating_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{04a25c1b-f972-41f8-b4b4-0f3621cfcbde}</UUID>
+      <VersionUUID>{e974255f-919f-40a0-9557-7d263820661e}</VersionUUID>
+      <Name>district_heating_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3dc46293-9d81-481d-9100-418ef544400f}</UUID>
+      <VersionUUID>{c89ea6ec-98bd-4721-8fcd-b9171789bb26}</VersionUUID>
+      <Name>district_heating_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c3f209b9-624a-45c4-84fe-898408306f50}</UUID>
+      <VersionUUID>{79ce3812-da2a-47cb-8bee-b71f050a05a1}</VersionUUID>
+      <Name>district_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>311.201317034546</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b3d75814-8b7b-449f-99b3-20bf4bb36ecd}</UUID>
+      <VersionUUID>{8a75773f-00bf-47e5-9fd7-76952a9af62f}</VersionUUID>
+      <Name>water_heating_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b4eec089-5ea8-4a9a-a18c-c9bb76193e3f}</UUID>
+      <VersionUUID>{634d179e-72a6-4f42-8dfc-bfb95b535969}</VersionUUID>
+      <Name>water_cooling_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{80842e19-a8cf-4047-ba32-861c234b4376}</UUID>
+      <VersionUUID>{9426177d-ceaf-45e4-971c-4944f0e47b63}</VersionUUID>
+      <Name>water_interior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b1cbd80b-7afb-46ad-a990-0a6a7270b037}</UUID>
+      <VersionUUID>{6ec3508e-9e0a-4e54-8fdf-3ee8c4a659ee}</VersionUUID>
+      <Name>water_exterior_lighting_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{7fdeb08b-6b57-427d-b4b6-b56f8ac7a5d0}</UUID>
+      <VersionUUID>{41422c2a-8820-453c-a294-6203723b9f17}</VersionUUID>
+      <Name>water_interior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{b7980f91-8192-4250-9b9b-593a95b6ab62}</UUID>
+      <VersionUUID>{20810a8b-219d-423b-b629-96486b9a2ca5}</VersionUUID>
+      <Name>water_exterior_equipment_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{4ab46057-8e64-412a-b8e4-1795c9e0a5b2}</UUID>
+      <VersionUUID>{c151d9ef-03d8-4104-8bc3-9d6d47ebd42b}</VersionUUID>
+      <Name>water_fans_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{56175d70-7944-4a51-8ab7-06358f5c582c}</UUID>
+      <VersionUUID>{b10b10ba-51d1-4ff3-9d3e-262a3f2870bb}</VersionUUID>
+      <Name>water_pumps_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e970cf2e-f2c2-449c-89f7-29ffff26e378}</UUID>
+      <VersionUUID>{e333a790-a0ed-46a0-b265-4f539cd82977}</VersionUUID>
+      <Name>water_heat_rejection_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{f409693b-9435-460b-888d-93ad814f93da}</UUID>
+      <VersionUUID>{3927e7dc-11cb-49c1-b6e9-e9d0d0956b17}</VersionUUID>
+      <Name>water_humidification_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{fe845587-5378-4cf2-9748-afa16695bab6}</UUID>
+      <VersionUUID>{0ac3255c-0e0b-4121-9b80-ec8e91890d95}</VersionUUID>
+      <Name>water_heat_recovery_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{166b4384-71b2-49fa-ac21-4d245a172360}</UUID>
+      <VersionUUID>{cdfce190-040b-42d7-b17d-be689833ac7f}</VersionUUID>
+      <Name>water_water_systems_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{ab121c6b-3c8d-4622-b2b5-10d3ca28107c}</UUID>
+      <VersionUUID>{112a5735-6fa5-42cc-8ed2-3e89034b9dc9}</VersionUUID>
+      <Name>water_refrigeration_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{cc156497-1ff7-4722-9d49-eec601669b3a}</UUID>
+      <VersionUUID>{8f1391d0-e053-4f71-b3c1-407b2a609413}</VersionUUID>
+      <Name>water_generators_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{54500432-1b72-4402-98b8-cebb44d30657}</UUID>
+      <VersionUUID>{1c9d42e3-5526-4891-b6e3-1e221c06dc91}</VersionUUID>
+      <Name>water_ip</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>MBtu</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e3bdb8d3-5a87-4c49-b207-fed6d0b712b1}</UUID>
+      <VersionUUID>{eb62be45-6430-493a-a958-56e17d3c0971}</VersionUUID>
+      <Name>ashrae_189.1-2009_extroof_iead_climatezone_1</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>11302.1059375452</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{3a9385b7-b50f-414a-8043-a7cce7137939}</UUID>
+      <VersionUUID>{d282698c-49f5-422d-b235-cbc1da9b0694}</VersionUUID>
+      <Name>newexteriorwall</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>8395.85012503357</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{2ae9c252-ef5f-489a-8bd2-0cfacc61c37d}</UUID>
+      <VersionUUID>{d768a09a-6635-407f-b3ba-91e77b988d43}</VersionUUID>
+      <Name>ashrae_189.1-2009_extwindow_climatezone_1</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>8395.8501250336</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{96618954-ca0d-4a7c-8d57-5cd95bc87435}</UUID>
+      <VersionUUID>{5c3b5ec3-8c65-46e6-ad8f-4cfdc7a4e79a}</VersionUUID>
+      <Name>gross_window-wall_ratio</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>50</Value>
+      <Units>%</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{0c93f66a-6435-44ff-845e-751d9c7d3d7c}</UUID>
+      <VersionUUID>{f2ceb412-24ae-4337-8ba3-df434127cdda}</VersionUUID>
+      <Name>gross_window-wall_ratio_conditioned</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>50</Value>
+      <Units>%</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{e98d1a4c-b4e3-49dc-bace-af29fecc371a}</UUID>
+      <VersionUUID>{3a09f201-bcba-4b67-9e8c-30e5af1cd868}</VersionUUID>
+      <Name>skylight_roof_ratio</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>%</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{783b2204-0f43-4f1f-9bb7-df3185574416}</UUID>
+      <VersionUUID>{82ab00fe-0b66-4575-96dc-edaf86ee2f6c}</VersionUUID>
+      <Name>space_type_189.1-2009_-_office_-_breakroom_-_cz1-3</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>9687.51937503874</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{c52e15e7-6a60-4b83-a989-b0bf87fcbde3}</UUID>
+      <VersionUUID>{a4fd5b5c-5b82-42d7-b1ad-ebccb87a8162}</VersionUUID>
+      <Name>space_type_189.1-2009_-_office_-_closedoffice_-_cz1-3</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>9041.68475003616</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{92c92f7a-9c07-4533-844a-bea223a96e65}</UUID>
+      <VersionUUID>{bb0b89be-ee4a-4874-8bfb-8c17d567bcfe}</VersionUUID>
+      <Name>space_type_189.1-2009_-_office_-_openoffice_-_cz1-3</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>15177.1136875607</Value>
+      <Units>ft^2</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{51e1183e-21c1-42bf-916d-a090e97af305}</UUID>
+      <VersionUUID>{952c3298-5ac8-45a6-b546-0e8e8b44368d}</VersionUUID>
+      <Name>exterior_lighting_total_power</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>W</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{87fc3c9a-6d88-4429-81eb-181eff5de5a7}</UUID>
+      <VersionUUID>{81ad00e7-81c9-4fa0-b380-ba7e1af81048}</VersionUUID>
+      <Name>exterior_lighting_total_consumption</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Double</ValueType>
+      <Value>0</Value>
+      <Units>kWh</Units>
+    </Attribute>
+    <Attribute>
+      <UUID>{fc2478dc-42f0-405b-a4d1-124a78990c9d}</UUID>
+      <VersionUUID>{ce59797d-2dbb-4f66-b40b-be263e98450b}</VersionUUID>
+      <Name>inflation_approach</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>String</ValueType>
+      <Value>Constant Dollar</Value>
+    </Attribute>
+    <Attribute>
+      <UUID>{1744e1f9-94a0-4aef-8f4e-490ba106552b}</UUID>
+      <VersionUUID>{fb106e4a-c7a2-4409-a8ef-18611fbe78a4}</VersionUUID>
+      <Name>analysis_length</Name>
+      <Source>OpenStudio Results</Source>
+      <ValueType>Integer</ValueType>
+      <Value>25</Value>
+      <Units>yrs</Units>
+    </Attribute>
+  </Attributes>
+</OSResult>
