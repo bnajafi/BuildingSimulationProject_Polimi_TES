@@ -1,0 +1,44 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000EF236FF870
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/wxiao/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/GRC_Athens.167160_IWEC.epw
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'E:/2FALL MASTER PIACENZA/Technical class/Lectures_on_OpenStudio_Polimi-master2/Lectures_on_OpenStudio_Polimi-master/Weather Data/GRC_Athens.167160_IWEC.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[saveModel] <-2> Saved model to 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources to C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata'
+[copyDir] <-1> Creating directory named = 'step7 addingweatherdata' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/files' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/run' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/run'
+[copyDir] <-1> Creating directory named = 'run' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/run' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/scripts' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/scripts'
+[copyDir] <-1> Creating directory named = 'scripts' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step7 addingweatherdata/scripts' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/scripts'
+[saveModel] <-2> Saved model to 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources to C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials'
+[copyDir] <-1> Creating directory named = 'step8 changingmaterials' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step8 changingmaterials/files' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F77028/resources/files'
