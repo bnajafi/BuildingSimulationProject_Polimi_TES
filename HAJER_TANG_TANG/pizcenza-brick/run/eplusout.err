@@ -1,0 +1,99 @@
+Program Version,EnergyPlus, Version 8.8.0-7c3bbe4830, YMD=2018.01.10 01:56,IDD_Version 8.8.0
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS_ON", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** GetHTSurfaceData: Surfaces with interface to Ground found but no "Ground Temperatures" were input.
+   **   ~~~   ** Found first in surface=SURFACE 1
+   **   ~~~   ** Defaults, constant throughout the year of (18.0) will be used.
+   ** Warning ** GetSurfaceData: Entered Zone Floor Areas differ from calculated Zone Floor Area(s).
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual zones.
+   ** Warning ** CalculateZoneVolume: 2 zones are not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ** Warning ** CheckUsedConstructions: There are 6 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 1", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 10", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 2", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 3", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 4", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 5", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 6", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 7", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 8", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 9", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 PEOPLE", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** GetInternalHeatGains: People="189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 PEOPLE", Activity Level Schedule Name values
+   **   ~~~   ** fall outside typical range [70,1000] W/person for Thermal Comfort Reporting.
+   **   ~~~   ** Odd comfort values may result; Schedule="SMALLHOTEL ACTIVITY".
+   **   ~~~   ** Entered min/max range=[60.1,67.6] W/person.
+   ** Warning ** Output:Meter:MeterFileOnly requested for "Electricity:Facility" (TimeStep), already on "Output:Meter". Will report to both eplusout.eso and eplusout.mtr
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-ELECTRICITY" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-DISTILLATE OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-RESIDUAL OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-NATURAL GAS" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-COAL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ************* Simulation Error Summary *************
+   ************* There are 3 unused objects in input.
+   ************* Use Output:Diagnostics,DisplayUnusedObjects; to see them.
+   ************* There are 24 unused schedules in input.
+   ************* There are 24 unused week schedules in input.
+   ************* There are 57 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 20 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 26 Warning; 0 Severe Errors; Elapsed Time=00hr 01min  8.79sec

@@ -1,0 +1,928 @@
+
+ Meters for 8,189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 69,189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 70,189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 71,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 92,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 93,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 94,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 95,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 96,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 97,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 98,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 99,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 100,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 101,THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 122,THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 143,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 174,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 175,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 176,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 177,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 178,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 179,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 180,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 181,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 182,189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 183,ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 184,ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 185,ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 186,ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 187,ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 188,ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 189,ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 190,ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 191,ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 192,ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 193,THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 204,THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 215,THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Building [J]
+  OnMeter=Gas:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorEquipment:Gas [J]
+  OnMeter=InteriorEquipment:Gas:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Gas [J]
+
+ Meters for 276,THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy [J]
+  OnMeter=Gas:Facility [J]
+  OnMeter=Gas:Building [J]
+  OnMeter=Gas:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorEquipment:Gas [J]
+  OnMeter=InteriorEquipment:Gas:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Gas [J]
+
+ Meters for 277,THERMAL ZONE 1:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 308,THERMAL ZONE 2:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 319,THERMAL ZONE 3:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 330,THERMAL ZONE 4:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 341,THERMAL ZONE 1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+
+ Meters for 392,THERMAL ZONE 1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+
+ Meters for 416,THERMAL ZONE 2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+
+ Meters for 437,THERMAL ZONE 2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+
+ Meters for 451,THERMAL ZONE 3:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+
+ Meters for 472,THERMAL ZONE 3:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+
+ Meters for 486,THERMAL ZONE 4:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+
+ Meters for 507,THERMAL ZONE 4:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+
+ Meters for 521,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 552,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 583,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 614,THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 645,THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 676,THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 677,THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 678,THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 679,THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 680,THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 681,THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 682,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 703,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 704,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, Group=Zone, contents are:
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8:Lights Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 10:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 11:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 2:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 3:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 4:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 5:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 6:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 7:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 8:Electric Equipment Electric Energy
+  ELECTRIC EQUIPMENT 9:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=Gas:Facility [J], ResourceType=Gas, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=Gas:Building [J], ResourceType=Gas, Group=Building, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=Gas:Zone:THERMAL ZONE 2 [J], ResourceType=Gas, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=InteriorEquipment:Gas [J], ResourceType=Gas, EndUse=InteriorEquipment, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=InteriorEquipment:Gas:Zone:THERMAL ZONE 2 [J], ResourceType=Gas, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=General:InteriorEquipment:Gas [J], ResourceType=Gas, EndUse=InteriorEquipment, contents are:
+  THERMAL ZONE 2 189.1-2009 - SMHOTEL - LAUNDRY - CZ4-8 GAS EQUIPMENT:Gas Equipment Gas Energy
+  THERMAL ZONE 2 GAS EQUIPMENT 1:Gas Equipment Gas Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+
+ For Meter=Ventilation (simple):Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
