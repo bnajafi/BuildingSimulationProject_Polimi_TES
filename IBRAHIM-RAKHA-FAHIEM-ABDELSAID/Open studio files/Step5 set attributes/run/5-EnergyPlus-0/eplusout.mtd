@@ -1,0 +1,1220 @@
+
+ Meters for 8,THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 69,THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 5 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 5 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 90,THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 111,THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 132,THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 153,THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 174,THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 195,THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 216,THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 237,THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 258,THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 279,THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+
+ Meters for 300,THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 331,THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 5 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 5 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 342,THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 353,THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 364,THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 375,THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 386,THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 397,THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 408,THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 419,THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 430,THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 441,THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+
+ Meters for 452,THERMAL ZONE 1:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 483,THERMAL ZONE 10:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 10 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 494,THERMAL ZONE 11:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 11 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 505,THERMAL ZONE 12:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 12 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 516,THERMAL ZONE 2:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 527,THERMAL ZONE 3:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 538,THERMAL ZONE 4:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 549,THERMAL ZONE 6:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 6 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 560,THERMAL ZONE 7:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 7 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 571,THERMAL ZONE 8:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 8 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 582,THERMAL ZONE 9:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:THERMAL ZONE 9 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 593,THERMAL ZONE 1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+
+ Meters for 644,THERMAL ZONE 1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 1 [J]
+
+ Meters for 667,THERMAL ZONE 10:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 10 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 10 [J]
+
+ Meters for 688,THERMAL ZONE 10:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 10 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 10 [J]
+
+ Meters for 701,THERMAL ZONE 11:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 11 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 11 [J]
+
+ Meters for 722,THERMAL ZONE 11:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 11 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 11 [J]
+
+ Meters for 735,THERMAL ZONE 12:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 12 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 12 [J]
+
+ Meters for 756,THERMAL ZONE 12:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 12 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 12 [J]
+
+ Meters for 769,THERMAL ZONE 2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+
+ Meters for 790,THERMAL ZONE 2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 2 [J]
+
+ Meters for 803,THERMAL ZONE 3:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+
+ Meters for 824,THERMAL ZONE 3:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 3 [J]
+
+ Meters for 837,THERMAL ZONE 4:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+
+ Meters for 858,THERMAL ZONE 4:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 4 [J]
+
+ Meters for 871,THERMAL ZONE 5:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 5 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 5 [J]
+
+ Meters for 892,THERMAL ZONE 5:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 5 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 5 [J]
+
+ Meters for 905,THERMAL ZONE 6:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 6 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 6 [J]
+
+ Meters for 926,THERMAL ZONE 6:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 6 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 6 [J]
+
+ Meters for 939,THERMAL ZONE 7:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 7 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 7 [J]
+
+ Meters for 960,THERMAL ZONE 7:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 7 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 7 [J]
+
+ Meters for 973,THERMAL ZONE 8:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 8 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 8 [J]
+
+ Meters for 994,THERMAL ZONE 8:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 8 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 8 [J]
+
+ Meters for 1007,THERMAL ZONE 9:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 9 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:THERMAL ZONE 9 [J]
+
+ Meters for 1028,THERMAL ZONE 9:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:THERMAL ZONE 9 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 9 [J]
+
+ Meters for 1041,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 1072,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 1103,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 1134,THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1165,THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1196,THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1197,THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1198,THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1199,THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1200,THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1201,THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1202,THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1203,THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1204,THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1205,THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1206,THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1207,THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1208,THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1209,THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1210,THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1211,THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1212,THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1213,THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1214,THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 1215,THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 1216,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1237,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 1238,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 5 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 5 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 9 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 9 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 10 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 10 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 12 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 12 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 6 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 6 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 8 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 8 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 11 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 11 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=Electricity:Zone:THERMAL ZONE 7 [J], ResourceType=Electricity, Group=Zone, contents are:
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:THERMAL ZONE 7 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  THERMAL ZONE 1 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 5 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 5 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 9 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 9 189.1-2009 - OFFICE - BREAKROOM - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 10 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 10 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 12 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 12 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 2 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 4 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 6 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 6 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 8 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 8 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 11 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 11 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 3 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:THERMAL ZONE 7 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  THERMAL ZONE 7 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT:Electric Equipment Electric Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 1 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+
+ For Meter=Ventilation (simple):Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  THERMAL ZONE 1:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 10 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 10:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 11 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 11:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 12 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 12:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 2 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 3 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 4 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 6 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 6:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 7 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 7:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 8 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 8:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:THERMAL ZONE 9 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  THERMAL ZONE 9:Zone Ventilation Fan Electric Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 10:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 10:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 11:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 11:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 12:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 12:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 5:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 5:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 6:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 6:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 7:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 7:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 8:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 8:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 9:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 9:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 10:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 10:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 11:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 11:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 12:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 12:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 5:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 5:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 6:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 6:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 7:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 7:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 8:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 8:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 9:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 9:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 10:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 11:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 12:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 5:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 6:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 7:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 8:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 9:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 10:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 11:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 12:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 5:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 6:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 7:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 8:Zone Air System Sensible Cooling Energy
+  THERMAL ZONE 9:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 10 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 10:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 10:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 10 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 10:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 10 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 10:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 11 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 11:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 11:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 11 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 11:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 11 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 11:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 12 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 12:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 12:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 12 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 12:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 12 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 12:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 3 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 3:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 4 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 4:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 5 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 5:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 5:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 5 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 5:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 5 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 5:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 6 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 6:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 6:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 6 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 6:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 6 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 6:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 7 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 7:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 7:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 7 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 7:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 7 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 7:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 8 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 8:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 8:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 8 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 8:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 8 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 8:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:THERMAL ZONE 9 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  THERMAL ZONE 9:Zone Air System Sensible Heating Energy
+  THERMAL ZONE 9:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:THERMAL ZONE 9 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  THERMAL ZONE 9:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:THERMAL ZONE 9 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  THERMAL ZONE 9:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 10 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 11 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 12 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+  THERMAL ZONE 9 IDEAL LOADS AIR SYSTEM:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
