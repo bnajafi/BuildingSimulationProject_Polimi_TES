@@ -1,0 +1,11 @@
+EnergyPlus Starting
+EnergyPlus, Version 8.5.0-c87e61b44b, YMD=2018.01.12 18:41
+Processing Data Dictionary
+Processing Input File
+Initializing Simulation
+Reporting Surfaces
+Beginning Primary Simulation
+Computing Life Cycle Costs and Reporting
+Writing final SQL reports
+**FATAL:Error condition occurred.  Previous Severe Errors cause termination.
+EnergyPlus Run Time=00hr 00min  0.62sec

@@ -1,0 +1,32 @@
+Program Version,EnergyPlus, Version 8.5.0-c87e61b44b, YMD=2018.01.12 18:41,IDD_Version 8.5.0
+   ** Warning ** IP: Note -- Some missing fields have been filled with defaults. See the audit output file for details.
+   ** Warning ** No Timestep object found.  Number of TimeSteps in Hour defaulted to 4.
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing design day simulations, but no design environments specified.
+   **   ~~~   ** ...No design environment results produced. For these results, add appropriate SizingPeriod:* objects for your simulation.
+   ** Warning ** CheckEnvironmentSpecifications: SimulationControl specified doing weather simulations; run periods for weather file specified; but no weather file specified.
+   ** Warning ** Did you realize that you have Latitude=0.0, Longitude=0.0 and TimeZone=0.0?  Your building site is in the middle of the Atlantic Ocean.
+   ** Warning ** Weather Environment(s) requested, but no weather file found
+   ** Warning ** Output:Meter: invalid Name="ELECTRICITY:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Name="GAS:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Name="DISTRICTCOOLING:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Name="DISTRICTHEATING:FACILITY" - not found.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Severe  ** Weather Simulation requested, but no weather file attached.
+   ** Severe  ** GetNextEnvironment: Errors found in getting a new environment
+   ** Warning ** ManageSimulation: SizingPeriod:* were requested in SimulationControl but no SizingPeriod:* objects in input.
+   **  Fatal  ** Error condition occurred.  Previous Severe Errors cause termination.
+   ...Summary of Errors that led to program termination:
+   ..... Reference severe error count=2
+   ..... Last severe error=GetNextEnvironment: Errors found in getting a new environment
+   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).
+   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 2 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Terminated--Fatal Error Detected. 11 Warning; 2 Severe Errors; Elapsed Time=00hr 00min  0.62sec
