@@ -1,0 +1,49 @@
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {dd13a3fa-a1fa-4380-a5da-f5c1a79eb1be} 1
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {dd13a3fa-a1fa-4380-a5da-f5c1a79eb1be} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {dd13a3fa-a1fa-4380-a5da-f5c1a79eb1be} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {dd13a3fa-a1fa-4380-a5da-f5c1a79eb1be} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {b6e9a72e-3b94-431e-ae0a-8121bd35519d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {b6e9a72e-3b94-431e-ae0a-8121bd35519d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {b6e9a72e-3b94-431e-ae0a-8121bd35519d} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {b6e9a72e-3b94-431e-ae0a-8121bd35519d} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {a199b596-1566-4ab2-ad63-65beea81bf80} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {a199b596-1566-4ab2-ad63-65beea81bf80} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {a199b596-1566-4ab2-ad63-65beea81bf80} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {a199b596-1566-4ab2-ad63-65beea81bf80} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {73856e60-12b0-4a3a-8f27-f1ae43a57851} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {73856e60-12b0-4a3a-8f27-f1ae43a57851} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {73856e60-12b0-4a3a-8f27-f1ae43a57851} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {73856e60-12b0-4a3a-8f27-f1ae43a57851} 0
+[openstudio.runmanager.RunManager] <-1> Time to load for uuid: {4377b389-e0a0-4984-bb9b-9ae47e2deb88} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse tools for uuid: {4377b389-e0a0-4984-bb9b-9ae47e2deb88} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse params for uuid: {4377b389-e0a0-4984-bb9b-9ae47e2deb88} 0
+[openstudio.runmanager.RunManager] <-1> Time to parse files for uuid: {4377b389-e0a0-4984-bb9b-9ae47e2deb88} 0
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000780D4FF7E0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/app-pc/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.model.RunPeriodControlDaylightSavingTime] <0> Ensure no leap days is not yet implemented for run control daylight saving time
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[saveModel] <-2> Saved model to 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources to C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens
+[copyDir] <-1> copyDir 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources' to 'C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens'
+[copyDir] <-1> Creating directory named = 'step12 Wall2setup_athens' in parentDstDir = 'C:/Users/app-pc/Desktop/tecnical'
+[synchDirStructures] <-1> Synching destination 'C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens' with source 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources'
+[copyDir] <-1> copyDir 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files' to 'C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens'
+[synchDirStructures] <-1> Synching destination 'C:/Users/app-pc/Desktop/tecnical/step12 Wall2setup_athens/files' with source 'C:/Users/app-pc/AppData/Local/Temp/OpenStudio.F35480/resources/files'
