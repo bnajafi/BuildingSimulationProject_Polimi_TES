@@ -1,0 +1,46 @@
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/run.db) Persisting job status for {98babbc6-9a9f-45d7-bc01-803a1b61a683}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {98babbc6-9a9f-45d7-bc01-803a1b61a683}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {98babbc6-9a9f-45d7-bc01-803a1b61a683}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/run.db) Persisting job status for {5413f271-e31f-425f-ae34-0fa27b3a02bc}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {5413f271-e31f-425f-ae34-0fa27b3a02bc}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {5413f271-e31f-425f-ae34-0fa27b3a02bc}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/run.db) Persisting job status for {2f6f4f9e-6004-4f75-90b6-18d289d66763}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2f6f4f9e-6004-4f75-90b6-18d289d66763}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {2f6f4f9e-6004-4f75-90b6-18d289d66763}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/run.db) Persisting job status for {ee7252b2-5d67-4f46-80b3-a002b1ae052e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {ee7252b2-5d67-4f46-80b3-a002b1ae052e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {ee7252b2-5d67-4f46-80b3-a002b1ae052e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/run.db) Persisting job status for {f2ccc184-fbc8-4bc1-b29c-3ac8a152680c}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {f2ccc184-fbc8-4bc1-b29c-3ac8a152680c}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {f2ccc184-fbc8-4bc1-b29c-3ac8a152680c}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000954C0FF5B0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/wxiao/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.EpwFile] <0> Successive data points (1999-Jan-31 to 1988-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/files/GRC_Athens.167160_IWEC.epw'. Data will be treated as typical (TMY)
+[saveModel] <-2> Saved model to 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources to C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens'
+[copyDir] <-1> Creating directory named = 'step9 Wall1setup_Athens' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/files' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step9 Wall1setup_Athens/files' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.F81728/resources/files'

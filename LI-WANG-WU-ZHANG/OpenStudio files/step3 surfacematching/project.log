@@ -1,0 +1,21 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 0000003602EFF860
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: D:/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/wxiao/OpenStudio/Measures
+[saveModel] <-2> Saved model to 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/resources to C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/resources' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching'
+[copyDir] <-1> Creating directory named = 'step3 surfacematching' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/resources'
+[copyDir] <-1> copyDir 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/resources/files' to 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching'
+[synchDirStructures] <-1> Synching destination 'C:/Users/wxiao/Desktop/LI-WANG-WU-ZHANG/step3 surfacematching/files' with source 'C:/Users/wxiao/AppData/Local/Temp/OpenStudio.n75876/resources/files'
