@@ -1,0 +1,320 @@
+Program Version,EnergyPlus, Version 8.8.0-7c3bbe4830, YMD=2018.01.18 14:52
+! <Version>, Version ID
+ Version, 8.8
+! <Timesteps per Hour>, #TimeSteps, Minutes per TimeStep {minutes}
+ Timesteps per Hour,  6, 10
+! <System Convergence Limits>, Minimum System TimeStep {minutes}, Max HVAC Iterations, Minimum Plant Iterations, Maximum Plant Iterations
+ System Convergence Limits, 1, 20, 2, 8
+! <Simulation Control>, Do Zone Sizing, Do System Sizing, Do Plant Sizing, Do Design Days, Do Weather Simulation, Do HVAC Sizing Simulation
+ Simulation Control, Yes, No, No, Yes, Yes, No
+! <Output Reporting Tolerances>, Tolerance for Time Heating Setpoint Not Met, Tolerance for Zone Cooling Setpoint Not Met Time
+ Output Reporting Tolerances, 0.200, 0.200, 
+! <Site:GroundTemperature:BuildingSurface>,Jan{C},Feb{C},Mar{C},Apr{C},May{C},Jun{C},Jul{C},Aug{C},Sep{C},Oct{C},Nov{C},Dec{C}
+ Site:GroundTemperature:BuildingSurface,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00
+! <Site:GroundTemperature:FCfactorMethod>,Jan{C},Feb{C},Mar{C},Apr{C},May{C},Jun{C},Jul{C},Aug{C},Sep{C},Oct{C},Nov{C},Dec{C}
+ Site:GroundTemperature:FCfactorMethod,   1.79,   3.68,   7.36,  10.85,  17.45,  20.92,  21.88,  20.11,  16.05,  10.98,   5.99,   2.69
+! <Site:GroundTemperature:Shallow>,Jan{C},Feb{C},Mar{C},Apr{C},May{C},Jun{C},Jul{C},Aug{C},Sep{C},Oct{C},Nov{C},Dec{C}
+ Site:GroundTemperature:Shallow,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00
+! <Site:GroundTemperature:Deep>,Jan{C},Feb{C},Mar{C},Apr{C},May{C},Jun{C},Jul{C},Aug{C},Sep{C},Oct{C},Nov{C},Dec{C}
+ Site:GroundTemperature:Deep,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00
+! <Site:GroundReflectance>,Jan{dimensionless},Feb{dimensionless},Mar{dimensionless},Apr{dimensionless},May{dimensionless},Jun{dimensionless},Jul{dimensionless},Aug{dimensionless},Sep{dimensionless},Oct{dimensionless},Nov{dimensionless},Dec{dimensionless}
+ Site:GroundReflectance,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Site:GroundReflectance:SnowModifier>, Normal, Daylighting {dimensionless}
+ Site:GroundReflectance:SnowModifier,   1.000,   1.000
+! <Site:GroundReflectance:Snow>,Jan{dimensionless},Feb{dimensionless},Mar{dimensionless},Apr{dimensionless},May{dimensionless},Jun{dimensionless},Jul{dimensionless},Aug{dimensionless},Sep{dimensionless},Oct{dimensionless},Nov{dimensionless},Dec{dimensionless}
+ Site:GroundReflectance:Snow,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Site:GroundReflectance:Snow:Daylighting>,Jan{dimensionless},Feb{dimensionless},Mar{dimensionless},Apr{dimensionless},May{dimensionless},Jun{dimensionless},Jul{dimensionless},Aug{dimensionless},Sep{dimensionless},Oct{dimensionless},Nov{dimensionless},Dec{dimensionless}
+ Site:GroundReflectance:Snow:Daylighting,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Environment:Weather Station>,Wind Sensor Height Above Ground {m},Wind Speed Profile Exponent {},Wind Speed Profile Boundary Layer Thickness {m},Air Temperature Sensor Height Above Ground {m},Wind Speed Modifier Coefficient-Internal,Temperature Modifier Coefficient-Internal
+Environment:Weather Station,10.000,0.140,270.000,1.500,1.586,9.750E-003
+! <Site:Location>, Location Name, Latitude {N+/S- Deg}, Longitude {E+/W- Deg},  Time Zone Number {GMT+/-}, Elevation {m},  Standard Pressure at Elevation {Pa}, Standard RhoAir at Elevation
+Site:Location,Piacenza - ITA IGDG WMO#=160840,44.92,9.73,1.00,134.00,99726,1.1853
+! <Building Information>, Building Name,North Axis {deg},Terrain,  Loads Convergence Tolerance Value,Temperature Convergence Tolerance Value,  Solar Distribution,Maximum Number of Warmup Days,Minimum Number of Warmup Days
+ Building Information,Building 1,0.000,Suburbs,4.00000E-002,0.40000,FullExterior,25,6
+! <Inside Convection Algorithm>, Algorithm {Simple | TARP | CeilingDiffuser | AdaptiveConvectionAlgorithm}
+Inside Convection Algorithm,TARP
+! <Outside Convection Algorithm>, Algorithm {SimpleCombined | TARP | MoWitt | DOE-2 | AdaptiveConvectionAlgorithm}
+Outside Convection Algorithm,DOE-2
+! <Sky Radiance Distribution>, Value {Anisotropic}
+Sky Radiance Distribution,Anisotropic
+! <Zone Air Solution Algorithm>, Value {ThirdOrderBackwardDifference | AnalyticalSolution | EulerMethod}
+ Zone Air Solution Algorithm, AnalyticalSolution
+! <Zone Air Carbon Dioxide Balance Simulation>, Simulation {Yes/No}, Carbon Dioxide Concentration
+ Zone Air Carbon Dioxide Balance Simulation, No,N/A
+! <Zone Air Generic Contaminant Balance Simulation>, Simulation {Yes/No}, Generic Contaminant Concentration
+ Zone Air Generic Contaminant Balance Simulation, No,N/A
+! <Zone Air Mass Flow Balance Simulation>, Enforce Mass Balance, Adjust Zone Mixing, Adjust Zone Infiltration {AddInfiltration | AdjustInfiltration | None}, Infiltration Zones {MixingSourceZonesOnly | AllZones}
+ Zone Air Mass Flow Balance Simulation, No,N/A,N/A,N/A
+! <HVACSystemRootFindingAlgorithm>, Value {RegulaFalsi | Bisection | BisectionThenRegulaFalsi | RegulaFalsiThenBisection}
+ HVACSystemRootFindingAlgorithm, RegulaFalsi
+! <Environment:Site Atmospheric Variation>,Wind Speed Profile Exponent {},Wind Speed Profile Boundary Layer Thickness {m},Air Temperature Gradient Coefficient {K/m}
+Environment:Site Atmospheric Variation,0.220,370.000,6.500000E-003
+! <Surface Geometry>,Starting Corner,Vertex Input Direction,Coordinate System,Daylight Reference Point Coordinate System,Rectangular (Simple) Surface Coordinate System
+ Surface Geometry,UpperLeftCorner,Counterclockwise,RelativeCoordinateSystem,RelativeCoordinateSystem,RelativeToZoneOrigin
+! <Surface Heat Transfer Algorithm>, Value {CTF - ConductionTransferFunction | EMPD - MoisturePenetrationDepthConductionTransferFunction | CondFD - ConductionFiniteDifference | HAMT - CombinedHeatAndMoistureFiniteElement} - Description,Inside Surface Max Temperature Limit{C}, Surface Convection Coefficient Lower Limit {W/m2-K}, Surface Convection Coefficient Upper Limit {W/m2-K}
+Surface Heat Transfer Algorithm, CTF - ConductionTransferFunction,200,0.10,1000.0
+! <Shading Summary>, Number of Fixed Detached Shades, Number of Building Detached Shades, Number of Attached Shades
+ Shading Summary,0,0,0
+! <Zone Summary>, Number of Zones, Number of Zone Surfaces, Number of SubSurfaces
+ Zone Summary,4,104,26
+! <Zone Information>,Zone Name,North Axis {deg},Origin X-Coordinate {m},Origin Y-Coordinate {m},Origin Z-Coordinate {m},Centroid X-Coordinate {m},Centroid Y-Coordinate {m},Centroid Z-Coordinate {m},Type,Zone Multiplier,Zone List Multiplier,Minimum X {m},Maximum X {m},Minimum Y {m},Maximum Y {m},Minimum Z {m},Maximum Z {m},Ceiling Height {m},Volume {m3},Zone Inside Convection Algorithm {Simple-Detailed-CeilingDiffuser-TrombeWall},Zone Outside Convection Algorithm {Simple-Detailed-Tarp-MoWitt-DOE-2-BLAST}, Floor Area {m2},Exterior Gross Wall Area {m2},Exterior Net Wall Area {m2},Exterior Window Area {m2}, Number of Surfaces, Number of SubSurfaces, Number of Shading SubSurfaces,  Part of Total Building Area
+ Zone Information, THERMAL ZONE 1,0.0,0.00,8.00,0.00,3.75,4.00,2.00,1,1,1,0.00,7.50,0.00,8.00,0.00,4.00,4.00,240.00,TARP,DOE-2,60.00,92.00,55.20,36.80,6,3,0,Yes
+ Zone Information, THERMAL ZONE 2,0.0,15.00,0.00,0.00,11.25,4.00,2.00,1,1,1,7.50,15.00,0.00,8.00,0.00,4.00,4.00,240.00,TARP,DOE-2,60.00,92.00,55.20,36.80,6,3,0,Yes
+ Zone Information, THERMAL ZONE 3,0.0,15.00,0.00,4.00,7.50,1.00,7.00,1,1,1,0.00,15.00,0.00,2.00,4.00,10.00,8.00,180.00,TARP,DOE-2,60.00,114.00,57.00,57.00,18,6,0,Yes
+ Zone Information, THERMAL ZONE 4,0.0,0.00,2.00,4.00,7.50,5.00,7.00,1,1,1,0.00,15.00,2.00,8.00,4.00,10.00,8.00,540.00,TARP,DOE-2,180.00,162.00,81.00,81.00,34,14,0,Yes
+! <Zone Internal Gains Nominal>,Zone Name, Floor Area {m2},# Occupants,Area per Occupant {m2/person},Occupant per Area {person/m2},Interior Lighting {W/m2},Electric Load {W/m2},Gas Load {W/m2},Other Load {W/m2},Hot Water Eq {W/m2},Steam Equipment {W/m2},Sum Loads per Area {W/m2},Outdoor Controlled Baseboard Heat
+ Zone Internal Gains Nominal, THERMAL ZONE 1,60.00,19.4,3.097,0.323,11.625,7.858,0.000,0.000,0.000,0.000,19.483,No
+ Zone Internal Gains Nominal, THERMAL ZONE 2,60.00,1.8,32.598,3.068E-002,8.719,5.490,0.000,0.000,0.000,0.000,14.208,No
+ Zone Internal Gains Nominal, THERMAL ZONE 3,60.00,0.0,N/A,0.000,4.844,0.000,0.000,0.000,0.000,0.000,4.844,No
+ Zone Internal Gains Nominal, THERMAL ZONE 4,180.00,8.3,21.757,4.596E-002,10.656,7.319,0.000,0.000,0.000,0.000,17.976,No
+! <People Internal Gains Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Number of People {},People/Floor Area {person/m2},Floor Area per person {m2/person},Fraction Radiant,Fraction Convected,Sensible Fraction Calculation,Activity level,ASHRAE 55 Warnings,Carbon Dioxide Generation Rate,Nominal Minimum Number of People,Nominal Maximum Number of People
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 1,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 10,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 2,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 3,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 4,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 5,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 6,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 7,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 8,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 PEOPLE 9,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,0.8,4.596E-003,217.572,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,1
+ People Internal Gains Nominal, THERMAL ZONE 1 189.1-2009 - SMHOTEL - GUESTLOUNGE - CZ4-8 PEOPLE,SMALLHOTEL BLDG OCC,THERMAL ZONE 1,60.00,19.4,19.4,0.323,3.097,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,19
+ People Internal Gains Nominal, THERMAL ZONE 2 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 PEOPLE,SMALLHOTEL BLDG OCC,THERMAL ZONE 2,60.00,1.8,1.8,3.068E-002,32.598,0.300,0.700,AutoCalculate,SMALLHOTEL ACTIVITY,No,3.8200E-008,0,2
+! <Lights Internal Gains Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Lighting Level {W},Lights/Floor Area {W/m2},Lights per person {W/person},Fraction Return Air,Fraction Radiant,Fraction Short Wave,Fraction Convected,Fraction Replaceable,End-Use Category,Nominal Minimum Lighting Level {W},Nominal Maximum Lighting Level {W}
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 1,SMALLHOTEL BLDG LIGHT,THERMAL ZONE 3,60.00,0.0,145.313,2.422,N/A,0.000,0.000,0.000,1.000,1.000,General,0.000,145.313
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 LIGHTS 2,SMALLHOTEL BLDG LIGHT,THERMAL ZONE 3,60.00,0.0,145.313,2.422,N/A,0.000,0.000,0.000,1.000,1.000,General,0.000,145.313
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 1,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 10,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 2,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 3,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 4,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 5,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 6,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 7,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 8,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 LIGHTS 9,SMALLHOTEL GUESTROOM LIGHT,THERMAL ZONE 4,180.00,8.3,191.813,1.066,23.185,0.000,0.000,0.000,1.000,1.000,General,0.000,191.813
+ Lights Internal Gains Nominal, THERMAL ZONE 1 189.1-2009 - SMHOTEL - GUESTLOUNGE - CZ4-8 LIGHTS,SMALLHOTEL BLDG LIGHT,THERMAL ZONE 1,60.00,19.4,697.501,11.625,36.000,0.000,0.000,0.000,1.000,1.000,General,0.000,697.501
+ Lights Internal Gains Nominal, THERMAL ZONE 2 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 LIGHTS,SMALLHOTEL BLDG LIGHT,THERMAL ZONE 2,60.00,1.8,523.126,8.719,284.211,0.000,0.000,0.000,1.000,1.000,General,0.000,523.126
+! <ElectricEquipment Internal Gains Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Equipment Level {W},Equipment/Floor Area {W/m2},Equipment per person {W/person},Fraction Latent,Fraction Radiant,Fraction Lost,Fraction Convected,End-Use SubCategory,Nominal Minimum Equipment Level {W},Nominal Maximum Equipment Level {W}
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 1,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 10,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 2,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 3,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 4,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 5,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 6,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 7,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 8,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 ELECTRIC EQUIPMENT 9,SMALLHOTEL GUESTROOM EQUIP,THERMAL ZONE 4,180.00,8.3,131.750,0.732,15.925,0.000,0.000,0.000,1.000,General,0.000,131.750
+ ElectricEquipment Internal Gains Nominal, THERMAL ZONE 1 189.1-2009 - SMHOTEL - GUESTLOUNGE - CZ4-8 ELECTRIC EQUIPMENT,SMALLHOTEL BLDG EQUIP,THERMAL ZONE 1,60.00,19.4,471.459,7.858,24.333,0.000,0.000,0.000,1.000,General,0.000,471.459
+ ElectricEquipment Internal Gains Nominal, THERMAL ZONE 2 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 ELECTRIC EQUIPMENT,SMALLHOTEL BLDG EQUIP,THERMAL ZONE 2,60.00,1.8,329.376,5.490,178.947,0.000,0.000,0.000,1.000,General,0.000,329.376
+! <Shadowing/Sun Position Calculations Annual Simulations>, Calculation Method, Value {days}, Allowable Number Figures in Shadow Overlap {}, Polygon Clipping Algorithm, Sky Diffuse Modeling Algorithm
+Shadowing/Sun Position Calculations Annual Simulations,AverageOverDaysInFrequency,7,15000,SutherlandHodgman,SimpleSkyDiffuseModeling,InternalCalculation,No
+! <ZoneInfiltration Airflow Stats Nominal>,Name,Schedule Name,Zone Name, Zone Floor Area {m2}, # Zone Occupants,Design Volume Flow Rate {m3/s},Volume Flow Rate/Floor Area {m3/s/m2},Volume Flow Rate/Exterior Surface Area {m3/s/m2},ACH - Air Changes per Hour,Equation A - Constant Term Coefficient {},Equation B - Temperature Term Coefficient {1/C},Equation C - Velocity Term Coefficient {s/m}, Equation D - Velocity Squared Term Coefficient {s2/m2}
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 INFILTRATION 1,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 3,60.00,0.0,1.291E-002,2.152E-004,8.968E-005,0.258,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - CORRIDOR - CZ4-8 INFILTRATION 2,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 3,60.00,0.0,1.971E-002,3.285E-004,1.369E-004,0.394,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 1,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,6.117E-003,3.399E-005,2.428E-005,4.078E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 10,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,1.020E-002,5.664E-005,4.046E-005,6.797E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 2,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,2.039E-003,1.133E-005,8.092E-006,1.359E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 3,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,2.039E-003,1.133E-005,8.092E-006,1.359E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 4,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,2.039E-003,1.133E-005,8.092E-006,1.359E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 5,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,6.117E-003,3.399E-005,2.428E-005,4.078E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 6,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,1.020E-002,5.664E-005,4.046E-005,6.797E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 7,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,6.117E-003,3.399E-005,2.428E-005,4.078E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 8,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,6.117E-003,3.399E-005,2.428E-005,4.078E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, 189.1-2009 - SMHOTEL - GUESTROOM - CZ4-8 INFILTRATION 9,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 4,180.00,8.3,6.117E-003,3.399E-005,2.428E-005,4.078E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, THERMAL ZONE 1 189.1-2009 - SMHOTEL - GUESTLOUNGE - CZ4-8 INFILTRATION,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 1,60.00,19.4,3.444E-002,5.740E-004,2.266E-004,0.517,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats Nominal, THERMAL ZONE 2 189.1-2009 - SMHOTEL - PUBLICRESTROOM - CZ4-8 INFILTRATION,SMALLHOTEL INFIL HALF ON,THERMAL ZONE 2,60.00,1.8,3.444E-002,5.740E-004,2.266E-004,0.517,1.000,0.000,0.000,0.000
+! <ZoneVentilation Airflow Stats Nominal>,Name,Schedule Name,Zone Name, Zone Floor Area {m2}, # Zone Occupants,Design Volume Flow Rate {m3/s},Volume Flow Rate/Floor Area {m3/s/m2},Volume Flow Rate/person Area {m3/s/person},ACH - Air Changes per Hour,Fan Type {Exhaust;Intake;Natural},Fan Pressure Rise {Pa},Fan Efficiency {},Equation A - Constant Term Coefficient {},Equation B - Temperature Term Coefficient {1/C},Equation C - Velocity Term Coefficient {s/m}, Equation D - Velocity Squared Term Coefficient {s2/m2},Minimum Indoor Temperature{C}/Schedule,Maximum Indoor Temperature{C}/Schedule,Delta Temperature{C}/Schedule,Minimum Outdoor Temperature{C}/Schedule,Maximum Outdoor Temperature{C}/Schedule,Maximum WindSpeed{m/s}
+ ZoneVentilation Airflow Stats Nominal, THERMAL ZONE 1 VENTILATION PER PERSON,SMALLHOTEL BLDG OCC,THERMAL ZONE 1,60.00,19.4,0.137,2.286E-003,7.079E-003,2.057,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats Nominal, THERMAL ZONE 2 VENTILATION PER FLOOR AREA,ALWAYS_ON,THERMAL ZONE 2,60.00,1.8,0.293,4.877E-003,0.159,4.389,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats Nominal, THERMAL ZONE 3 VENTILATION PER FLOOR AREA,ALWAYS_ON,THERMAL ZONE 3,60.00,0.0,1.524E-002,2.540E-004,N/A,0.305,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats Nominal, THERMAL ZONE 4 VENTILATION PER PERSON,SMALLHOTEL GUESTROOM OCC,THERMAL ZONE 4,180.00,8.3,5.857E-002,3.254E-004,7.079E-003,0.390,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+! <AirFlow Model>, Simple
+ AirFlow Model, Simple
+! <RoomAir Model>, Zone Name, Mixing/Mundt/UCSDDV/UCSDCV/UCSDUFI/UCSDUFE/User Defined
+RoomAir Model,THERMAL ZONE 1,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 2,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 3,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 4,Mixing/Well-Stirred
+! <AirflowNetwork Model:Control>, No Multizone or Distribution/Multizone with Distribution/Multizone without Distribution/Multizone with Distribution only during Fan Operation
+AirflowNetwork Model:Control,NoMultizoneOrDistribution
+! <Zone Volume Capacitance Multiplier>, Sensible Heat Capacity Multiplier, Moisture Capacity Multiplier, Carbon Dioxide Capacity Multiplier, Generic Contaminant Capacity Multiplier
+Zone Volume Capacitance Multiplier,   1.000 ,   1.000,   1.000,   1.000
+! <Load Timesteps in Zone Design Calculation Averaging Window>, Value
+ Load Timesteps in Zone Design Calculation Averaging Window,    6
+! <Heating Sizing Factor Information>, Sizing Factor ID, Value
+ Heating Sizing Factor Information, Global,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 1,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 2,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 3,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 4,   1.2500    
+! <Cooling Sizing Factor Information>, Sizing Factor ID, Value
+ Cooling Sizing Factor Information, Global,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 1,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 2,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 3,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 4,   1.1500    
+! <Zone Sizing Information>, Zone Name, Load Type, Calc Des Load {W}, User Des Load {W}, Calc Des Air Flow Rate {m3/s}, User Des Air Flow Rate {m3/s}, Design Day Name, Date/Time of Peak, Temperature at Peak {C}, Humidity Ratio at Peak {kgWater/kgDryAir}, Floor Area {m2}, # Occupants, Calc Outdoor Air Flow Rate {m3/s}, Calc DOAS Heat Addition Rate {W}
+ Zone Sizing Information, THERMAL ZONE 1, Cooling, 5751.72998, 6614.48948, 0.47640, 0.54786, PIACENZA ANN CLG .4% CONDNS DB=>MWB, 8/21 15:40:00, 32.62400, 1.33499E-002, 60.00000, 19.37504, 0.13716, 0.00000
+ Zone Sizing Information, THERMAL ZONE 1, Heating, 3319.26410, 4149.08012, 0.14450, 0.18062, PIACENZA ANN HTG 99.6% CONDNS DB, 1/21 24:00:00, -6.10000, 2.28840E-003, 60.00000, 19.37504, 0.13716, 0.00000
+ Zone Sizing Information, THERMAL ZONE 2, Cooling, 5418.93563, 6231.77598, 0.44884, 0.51617, PIACENZA ANN CLG .4% CONDNS DB=>MWB, 8/21 14:30:00, 33.10000, 1.33499E-002, 60.00000, 1.84063, 0.29261, 0.00000
+ Zone Sizing Information, THERMAL ZONE 2, Heating, 13712.90307, 17141.12884, 0.59560, 0.74450, PIACENZA ANN HTG 99.6% CONDNS DB, 1/21 24:00:00, -6.10000, 2.28840E-003, 60.00000, 1.84063, 0.29261, 0.00000
+ Zone Sizing Information, THERMAL ZONE 3, Cooling, 5862.82733, 6742.25143, 0.48480, 0.55752, PIACENZA ANN CLG .4% CONDNS DB=>MWB, 8/21 14:10:00, 33.10000, 1.33499E-002, 60.00000, 0.00000, 1.52400E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 3, Heating, 4765.50133, 5956.87667, 0.20742, 0.25927, PIACENZA ANN HTG 99.6% CONDNS DB, 1/21 24:00:00, -6.10000, 2.28840E-003, 60.00000, 0.00000, 1.52400E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 4, Cooling, 8345.12842, 9596.89768, 0.69034, 0.79390, MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB, 7/21 16:30:00, 31.98000, 1.54944E-002, 180.00000, 8.27314, 5.85673E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 4, Heating, 7000.78744, 8750.98430, 0.30479, 0.38099, PIACENZA ANN HTG 99.6% CONDNS DB, 1/21 24:00:00, -6.10000, 2.28840E-003, 180.00000, 8.27314, 5.85673E-002, 0.00000
+! <Component Sizing Information>, Component Type, Component Name, Input Field Description, Value
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+! <Environment>,Environment Name,Environment Type, Start Date, End Date, Start DayOfWeek, Duration {#days}, Source:Start DayOfWeek,  Use Daylight Saving, Use Holidays, Apply Weekend Holiday Rule,  Use Rain Values, Use Snow Values
+! <Environment:Special Days>, Special Day Name, Special Day Type, Source, Start Date, Duration {#days}
+! <Environment:Daylight Saving>, Daylight Saving Indicator, Source, Start Date, End Date
+! <Environment:WarmupDays>, NumberofWarmupDays
+Environment,MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB,SizingPeriod:DesignDay,07/21,07/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+! <Environment:Design Day Data>, Max Dry-Bulb Temp {C}, Temp Range {dC}, Temp Range Ind Type, Hum Ind Value at Max Temp, Hum Ind Type,Pressure {Pa}, Wind Direction {deg CW from N}, Wind Speed {m/s}, Clearness, Rain, Snow
+! <Environment:Design Day Misc>,DayOfYear,ASHRAE A Coeff,ASHRAE B Coeff,ASHRAE C Coeff,Solar Constant-Annual Variation,Eq of Time {minutes}, Solar Declination Angle {deg}, Solar Model
+Environment:Design Day Data,33.00,10.20,DefaultMultipliers,100094,220,2.3,0.00,No,No
+Environment:Design Day Misc,202,1084.4,0.2082,0.1365,1.0,-6.23,20.6,ASHRAETau
+Environment:WarmupDays,  6
+! <Tabular Report>,Style,Unit Conversion
+Tabular Report,HTML,None
+! <Warmup Convergence Information>,Zone Name,Environment Type/Name,Average Warmup Temperature Difference {deltaC},Std Dev Warmup Temperature Difference {deltaC},Max Temperature Pass/Fail Convergence,Min Temperature Pass/Fail Convergence,Average Warmup Load Difference {W},Std Dev Warmup Load Difference {W},Heating Load Pass/Fail Convergence,Cooling Load Pass/Fail Convergence
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB,2.0040759176E-013,1.6599007477E-013,Pass,Pass,1.9606674743E-002,9.9199806575E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB,4.0167201594E-003,1.4586423465E-002,Pass,Pass,7.0515721320E-002,0.1462248775,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB,1.1612402433E-002,2.8501405424E-002,Pass,Pass,7.4918523756E-002,0.1464977855,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DB=>MWB,1.5249530034E-013,1.2523496282E-013,Pass,Pass,1.7440436760E-002,1.2314472554E-002,Pass,Pass
+Environment,MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB,SizingPeriod:DesignDay,07/21,07/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,28.50,10.20,DefaultMultipliers,100094,220,2.3,0.00,No,No
+Environment:Design Day Misc,202,1084.4,0.2082,0.1365,1.0,-6.23,20.6,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB,1.3105566015E-013,1.5080451871E-013,Pass,Pass,4.8532116540E-002,3.2767556431E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB,4.1666666666E-002,7.0828770714E-002,Pass,Pass,0.1112332010,0.3434247203,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB,4.1666666666E-002,6.5172959240E-002,Pass,Pass,8.6912998227E-002,0.2399489557,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS DP=>MDB,1.0036416143E-013,1.0089201241E-013,Pass,Pass,2.7439872891E-002,2.0678587466E-002,Pass,Pass
+Environment,MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB,SizingPeriod:DesignDay,07/21,07/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,31.00,10.20,DefaultMultipliers,100094,220,2.3,0.00,No,No
+Environment:Design Day Misc,202,1084.4,0.2082,0.1365,1.0,-6.23,20.6,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB,1.7975744350E-013,1.8090678655E-013,Pass,Pass,2.5201615398E-002,1.2195257031E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB,2.3852531115E-002,4.4190459545E-002,Pass,Pass,6.1524906222E-002,0.1630606676,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB,2.4908512935E-002,4.7313016155E-002,Pass,Pass,8.0470856472E-002,0.2434785785,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS ENTH=>MDB,1.3135171962E-013,1.1505934978E-013,Pass,Pass,2.0570073287E-002,1.4488890213E-002,Pass,Pass
+Environment,MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB,SizingPeriod:DesignDay,07/21,07/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,31.00,10.20,DefaultMultipliers,100094,220,2.3,0.00,No,No
+Environment:Design Day Misc,202,1084.4,0.2082,0.1365,1.0,-6.23,20.6,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB,1.8123774086E-013,1.5171364623E-013,Pass,Pass,2.5171415665E-002,1.2207041837E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB,2.3905699697E-002,4.4232292538E-002,Pass,Pass,6.4254861897E-002,0.1867412539,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB,2.4990817016E-002,4.7325969927E-002,Pass,Pass,9.9275081084E-002,0.4446280767,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN CLG .4% CONDNS WB=>MDB,1.3349815081E-013,1.1254667279E-013,Pass,Pass,2.0521269552E-002,1.4529949851E-002,Pass,Pass
+Environment,MILANO-LINATE ANN HTG 99.6% CONDNS DB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,-5.10,0.00,DefaultMultipliers,100094,240,0.4,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN HTG 99.6% CONDNS DB,1.9243865760E-015,1.8665839560E-015,Pass,Pass,4.6231083190E-013,4.3770742444E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN HTG 99.6% CONDNS DB,2.1824517502E-013,1.8892846997E-013,Pass,Pass,1.1316260950E-013,1.0883112511E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN HTG 99.6% CONDNS DB,1.5733093840E-013,2.8600998355E-015,Pass,Pass,1.7327772410E-013,1.6966765656E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN HTG 99.6% CONDNS DB,2.7138785046E-015,2.3679617379E-015,Pass,Pass,3.7741157590E-013,3.5040405609E-013,Pass,Pass
+Environment,MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,8.80,0.00,DefaultMultipliers,100094,240,10.3,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.0608797791E-013,8.0097752264E-014,Pass,Pass,1.1535315086E-013,9.4940559204E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB,4.4125197323E-013,3.4495123523E-013,Pass,Pass,1.1052708094E-013,9.5552681362E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.2871185599E-013,1.1900391704E-013,Pass,Pass,5.0943477360E-014,4.1506702976E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN HTG WIND 99.6% CONDNS WS=>MCDB,9.3900196261E-014,8.0527798783E-014,Pass,Pass,9.1562495373E-014,8.1964877860E-014,Pass,Pass
+Environment,MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,2.30,0.00,DefaultMultipliers,100094,240,0.4,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB,2.4671622769E-015,1.9313327027E-015,Pass,Pass,6.1585079594E-013,5.7544698234E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB,1.2972339252E-013,1.4176642479E-013,Pass,Pass,1.6282743425E-013,1.5048062652E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB,2.6892068819E-015,2.5207348450E-015,Pass,Pass,2.3651095364E-013,2.2862829698E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: MILANO-LINATE ANN HUM_N 99.6% CONDNS DP=>MCDB,2.2204460493E-015,1.7701781882E-015,Pass,Pass,4.8301161995E-013,4.5888980543E-013,Pass,Pass
+Environment,PIACENZA ANN CLG .4% CONDNS DB=>MWB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,33.10,11.90,DefaultMultipliers,99726,90,2.3,0.00,No,No
+Environment:Design Day Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DB=>MWB,1.5548056669E-013,1.3573413850E-013,Pass,Pass,2.5373478795E-002,1.3447712498E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DB=>MWB,2.0151135109E-002,4.3778070770E-002,Pass,Pass,9.5886376904E-002,0.4999029387,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DB=>MWB,2.3690506332E-002,4.7010948802E-002,Pass,Pass,6.7395295012E-002,0.1231343799,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DB=>MWB,1.4423030671E-013,1.2713561791E-013,Pass,Pass,2.0798450612E-002,1.3974963807E-002,Pass,Pass
+Environment,PIACENZA ANN CLG .4% CONDNS DP=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,27.40,11.90,DefaultMultipliers,99726,90,2.3,0.00,No,No
+Environment:Design Day Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DP=>MDB,1.6707646578E-002,3.2595346493E-002,Pass,Pass,6.4331676566E-002,0.1533297950,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DP=>MDB,4.1666666667E-002,8.7684498094E-002,Pass,Pass,9.6782883189E-002,0.2504583147,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DP=>MDB,4.1666666666E-002,8.8592354654E-002,Pass,Pass,0.1111420766,0.2649977469,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN CLG .4% CONDNS DP=>MDB,2.2912616118E-005,1.9291575035E-004,Pass,Pass,9.7822943219E-002,0.2580626819,Pass,Pass
+Environment,PIACENZA ANN CLG .4% CONDNS ENTH=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,30.30,11.90,DefaultMultipliers,99726,90,2.3,0.00,No,No
+Environment:Design Day Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN CLG .4% CONDNS ENTH=>MDB,1.2158175701E-013,1.3935154559E-013,Pass,Pass,4.7949921212E-002,3.2356884865E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN CLG .4% CONDNS ENTH=>MDB,4.1666666666E-002,7.7113721081E-002,Pass,Pass,9.3823231380E-002,0.2928336089,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN CLG .4% CONDNS ENTH=>MDB,4.1666666666E-002,7.0968772737E-002,Pass,Pass,0.1400544279,0.7871684133,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN CLG .4% CONDNS ENTH=>MDB,1.2298803951E-013,1.1944742914E-013,Pass,Pass,2.8333777316E-002,2.0297509023E-002,Pass,Pass
+Environment,PIACENZA ANN CLG .4% CONDNS WB=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,30.10,11.90,DefaultMultipliers,99726,90,2.3,0.00,No,No
+Environment:Design Day Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN CLG .4% CONDNS WB=>MDB,1.3719889422E-013,1.4596062108E-013,Pass,Pass,5.4346555343E-002,4.1896361640E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN CLG .4% CONDNS WB=>MDB,4.1666666666E-002,7.8056745974E-002,Pass,Pass,0.9694047447,10.6458376355,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN CLG .4% CONDNS WB=>MDB,4.1666666666E-002,7.3064629440E-002,Pass,Pass,0.1173721898,0.3968693842,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN CLG .4% CONDNS WB=>MDB,1.1911459473E-013,1.1346453294E-013,Pass,Pass,2.9147542197E-002,2.1202656566E-002,Pass,Pass
+Environment,PIACENZA ANN HTG 99.6% CONDNS DB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,-6.10,0.00,DefaultMultipliers,99726,250,2.0,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN HTG 99.6% CONDNS DB,2.2944609176E-015,1.6991208860E-015,Pass,Pass,1.4932842043E-013,1.4299604573E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN HTG 99.6% CONDNS DB,3.1002361172E-013,3.0940665098E-013,Pass,Pass,5.2049085563E-014,4.8093599343E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN HTG 99.6% CONDNS DB,2.8372366185E-015,2.6998241455E-015,Pass,Pass,4.9384645692E-014,4.9651070685E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN HTG 99.6% CONDNS DB,2.6892068819E-015,2.4141658784E-015,Pass,Pass,1.0806121372E-013,1.0661435657E-013,Pass,Pass
+Environment,PIACENZA ANN HTG WIND 99.6% CONDNS WS=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,5.80,0.00,DefaultMultipliers,99726,250,8.9,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.2037284749E-013,7.9516632531E-014,Pass,Pass,9.1433225489E-014,7.9751624553E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.7805510153E-013,2.2816852288E-013,Pass,Pass,4.1388062111E-014,3.7356296967E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.3988810110E-013,1.3833606593E-013,Pass,Pass,5.4860786342E-014,4.1705924410E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN HTG WIND 99.6% CONDNS WS=>MCDB,9.5010419285E-014,7.4093869914E-014,Pass,Pass,8.3882972631E-014,7.2272936915E-014,Pass,Pass
+Environment,PIACENZA ANN HUM_N 99.6% CONDNS DP=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,3.50,0.00,DefaultMultipliers,99726,250,2.0,0.00,No,No
+Environment:Design Day Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: PIACENZA ANN HUM_N 99.6% CONDNS DP=>MCDB,9.7921670772E-014,2.3205756437E-015,Pass,Pass,2.3361766943E-013,2.1482434058E-013,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: PIACENZA ANN HUM_N 99.6% CONDNS DP=>MCDB,2.2271073874E-013,1.4178774308E-013,Pass,Pass,6.3081230805E-014,5.6154123449E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: PIACENZA ANN HUM_N 99.6% CONDNS DP=>MCDB,1.2816908029E-013,3.0215436224E-015,Pass,Pass,7.8136544233E-014,7.1328028387E-014,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: PIACENZA ANN HUM_N 99.6% CONDNS DP=>MCDB,8.4648337722E-014,3.1424132703E-015,Pass,Pass,1.6319239182E-013,1.5642444411E-013,Pass,Pass
+Environment,RUN PERIOD 1,WeatherFileRunPeriod,01/01,12/31,Sunday,365,Use RunPeriod Specified Day,No,No,No,Yes,Yes
+Environment:Daylight Saving,No,RunPeriod Object
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,RunPeriod: RUN PERIOD 1,1.7563728250E-013,1.6824605258E-013,Pass,Pass,1.3273257508E-002,3.4228904185E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,RunPeriod: RUN PERIOD 1,3.2576410705E-013,2.4159841763E-013,Pass,Pass,4.2095444715E-003,6.0550209062E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,RunPeriod: RUN PERIOD 1,1.7993014486E-013,1.5451778645E-013,Pass,Pass,8.1382372339E-003,8.0886437860E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,RunPeriod: RUN PERIOD 1,8.2329205182E-014,8.8412628533E-014,Pass,Pass,2.0559380753E-002,5.7843859258E-002,Pass,Pass
+! <Program Control Information:Threads/Parallel Sims>, Threading Supported,Maximum Number of Threads, Env Set Threads (OMP_NUM_THREADS), EP Env Set Threads (EP_OMP_NUM_THREADS), IDF Set Threads, Number of Threads Used (Interior Radiant Exchange), Number Nominal Surfaces, Number Parallel Sims
+Program Control:Threads/Parallel Sims, No,1, N/A, N/A, N/A, N/A, N/A, N/A
+End of Data
