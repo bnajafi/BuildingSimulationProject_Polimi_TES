@@ -1,0 +1,56 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000F196D3FA10
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/SHANTANU/OpenStudio/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Users/SHANTANU/OpenStudio/Measures/a_1
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Users/SHANTANU/OpenStudio/Measures/a_1
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Users/SHANTANU/OpenStudio/Measures/open_studio_results_copy
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Users/SHANTANU/OpenStudio/Measures/open_studio_results_copy
+[openstudio.EpwFile] <0> Successive data points (1987-Jan-31 to 1989-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/files/ITA_Rome.162420_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Rome.162420_IWEC.epw
+[openstudio.EpwFile] <0> Successive data points (1987-Jan-31 to 1989-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/files/ITA_Rome.162420_IWEC.epw'. Data will be treated as typical (TMY)
+[openstudio.setFileExtension] <0> Path p, 'C:/Program Files/OpenStudio 1.11.0/share/openstudio/EnergyPlus-8-5-0/WeatherData/ITA_Rome.162420_IWEC.ddy', has an unexpected file extension. Was expecting 'idf'.
+[openstudio.energyplus.GeometryTranslator] <0> Could not find GlobalGeometryRules object, assuming defaults
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.energyplus.GeometryTranslator] <0> Could not find Building object, assuming 0 rotation
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/run.db) Persisting job status for {0b172be4-81a8-4702-965b-2dac8f2c3b17}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {0b172be4-81a8-4702-965b-2dac8f2c3b17}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {0b172be4-81a8-4702-965b-2dac8f2c3b17}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/run.db) Persisting job status for {2c11e404-095b-4da6-90c2-4862fe0f4e04}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {2c11e404-095b-4da6-90c2-4862fe0f4e04}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {2c11e404-095b-4da6-90c2-4862fe0f4e04}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/run.db) Persisting job status for {23689091-bbee-4c1b-a640-4adf9a427bc9}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {23689091-bbee-4c1b-a640-4adf9a427bc9}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {23689091-bbee-4c1b-a640-4adf9a427bc9}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/run.db) Persisting job status for {46350cd1-0ba3-46aa-8027-53def4c216be}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {46350cd1-0ba3-46aa-8027-53def4c216be}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {46350cd1-0ba3-46aa-8027-53def4c216be}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/run.db) Persisting job status for {7bbb9b26-244b-40ce-a77d-4f560aefee86}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {7bbb9b26-244b-40ce-a77d-4f560aefee86}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {7bbb9b26-244b-40ce-a77d-4f560aefee86}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources to C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome
+[copyDir] <-1> copyDir 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources' to 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome'
+[copyDir] <-1> Creating directory named = 'Rome' in parentDstDir = 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome' with source 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources'
+[copyDir] <-1> copyDir 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/files' to 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome'
+[synchDirStructures] <-1> Synching destination 'C:/Users/SHANTANU/Desktop/TES/Rory-Shantanu-Dina-Pravallika/OpenStudio Files/Rome/files' with source 'C:/Users/SHANTANU/AppData/Local/Temp/OpenStudio.L26360/resources/files'
