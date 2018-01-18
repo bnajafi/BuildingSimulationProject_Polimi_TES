@@ -1,0 +1,46 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 00000083B02FF7C0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Sara Barani/OpenStudio/Measures
+[openstudio.EpwFile] <0> Successive data points (1975-Jan-31 to 1981-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/files/KEN_Mombasa-Moi.638200_SWERA.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/KEN_Mombasa-Moi.638200_SWERA.epw
+[openstudio.EpwFile] <0> Successive data points (1975-Jan-31 to 1981-Feb-01, ending on line 753) are greater than 1 day apart in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/files/KEN_Mombasa-Moi.638200_SWERA.epw'. Data will be treated as typical (TMY)
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/run.db) Persisting job status for {087de9db-a1da-4243-bb65-f6bdd4a3f63e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {087de9db-a1da-4243-bb65-f6bdd4a3f63e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {087de9db-a1da-4243-bb65-f6bdd4a3f63e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/run.db) Persisting job status for {d8105b0e-7fb8-4953-8e79-cdaeb7fd3685}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {d8105b0e-7fb8-4953-8e79-cdaeb7fd3685}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {d8105b0e-7fb8-4953-8e79-cdaeb7fd3685}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/run.db) Persisting job status for {10140f47-865f-4181-9c94-2792dd5ad9c4}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {10140f47-865f-4181-9c94-2792dd5ad9c4}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {10140f47-865f-4181-9c94-2792dd5ad9c4}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/run.db) Persisting job status for {ae8c94eb-23ba-49c8-9b67-d674860d5ef9}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {ae8c94eb-23ba-49c8-9b67-d674860d5ef9}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {ae8c94eb-23ba-49c8-9b67-d674860d5ef9}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/run.db) Persisting job status for {a375217e-0147-4ed9-82ad-796aee93e052}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {a375217e-0147-4ed9-82ad-796aee93e052}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {a375217e-0147-4ed9-82ad-796aee93e052}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources to C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation'
+[copyDir] <-1> Creating directory named = 'Kenya without insulation' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources'
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/files' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Kenya without insulation/files' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7272/resources/files'
