@@ -1,0 +1,65 @@
+[openstudio.LocalLibraryController] <-2> Creating LocalLibraryController with base app 000000AF9A2FF6E0
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/CalibrationReports
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/RadianceMeasure
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReplaceModel
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/ReportRequest
+[utilities.bcl.BCLMeasure] <-2> Attempting to load measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Success loading measure: C:/Program Files/OpenStudio 1.11.0/share/openstudio-1.11.0/pat/Measures/StandardReports
+[utilities.bcl.BCLMeasure] <-2> Loading measures in path: C:/Users/Sara Barani/OpenStudio/Measures
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.runmanager.Workflow] <-2> creating workflow
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run.db) Persisting job status for {06bb105b-a348-4920-b701-14b6823d35ac}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {06bb105b-a348-4920-b701-14b6823d35ac}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {06bb105b-a348-4920-b701-14b6823d35ac}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run.db) Persisting job status for {26975d3a-b245-421f-88d1-bdf466ea8d6c}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {26975d3a-b245-421f-88d1-bdf466ea8d6c}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {26975d3a-b245-421f-88d1-bdf466ea8d6c}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run.db) Persisting job status for {700c85da-2bec-4102-ac2f-8d41de52c17e}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {700c85da-2bec-4102-ac2f-8d41de52c17e}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {700c85da-2bec-4102-ac2f-8d41de52c17e}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run.db) Persisting job status for {b070c645-24e0-4920-82f6-a4179331e4c0}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {b070c645-24e0-4920-82f6-a4179331e4c0}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {b070c645-24e0-4920-82f6-a4179331e4c0}
+[openstudio.runmanager.Job_Impl] <-2> Returning previously saved outputfiles
+[openstudio.runmanager.RunManager] <-2> (C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run.db) Persisting job status for {02f9d60c-6703-48b1-a8ef-458de75f2af3}
+[openstudio.runmanager.RunManager] <-2> Deleted previous data job status for {02f9d60c-6703-48b1-a8ef-458de75f2af3}
+[openstudio.runmanager.RunManager] <-2> Not persisting, job has not actually finished {02f9d60c-6703-48b1-a8ef-458de75f2af3}
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources to C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation'
+[copyDir] <-1> Creating directory named = 'Piacenza with insulation' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources'
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/files'
+[copyDir] <-1> Creating directory named = 'files' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/files' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files'
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/run'
+[copyDir] <-1> Creating directory named = 'run' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/run' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run'
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/scripts' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/scripts'
+[copyDir] <-1> Creating directory named = 'scripts' in parentDstDir = 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/scripts' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/scripts'
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.model.WeatherFile] <-2> Setting weather file url to file:files/ITA_Piacenza.160840_IGDG.epw
+[openstudio.EpwFile] <0> Header start day of the week and actual start day of the week do not match in EPW file 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files/ITA_Piacenza.160840_IGDG.epw'. Data will be treated as typical (TMY)
+[openstudio.project.ProjectDatabase] <-1> DB Message: cannot start a transaction within a transaction Unable to begin transaction
+[saveModel] <-2> Saved model to 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/in.osm'
+[saveModelTempDir] <-2> Copying C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources to C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/files' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/run' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/run'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/scripts' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/scripts'
+[copyDir] <-1> copyDir 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files' to 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/files'
+[synchDirStructures] <-1> Synching destination 'C:/Users/Sara Barani/Desktop/Barani-Cisana-Vinetti-Vivaldo/Piacenza with insulation/files' with source 'C:/Users/Sara Barani/AppData/Local/Temp/OpenStudio.op7048/resources/files'
