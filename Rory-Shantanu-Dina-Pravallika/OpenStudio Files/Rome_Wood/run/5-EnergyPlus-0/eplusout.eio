@@ -1,0 +1,307 @@
+Program Version,EnergyPlus, Version 8.5.0-c87e61b44b, YMD=2018.01.18 15:50
+! <Version>, Version ID
+ Version, 8.5
+! <Timesteps per Hour>, #TimeSteps, Minutes per TimeStep {minutes}
+ Timesteps per Hour,  4, 15
+! <System Convergence Limits>, Minimum System TimeStep {minutes}, Max HVAC Iterations, Minimum Plant Iterations, Maximum Plant Iterations
+ System Convergence Limits, 1, 20, 2, 8
+! <Simulation Control>, Do Zone Sizing, Do System Sizing, Do Plant Sizing, Do Design Days, Do Weather Simulation, Do HVAC Sizing Simulation
+ Simulation Control, Yes, No, No, Yes, Yes, No
+! <Output Reporting Tolerances>, Tolerance for Time Heating Setpoint Not Met, Tolerance for Zone Cooling Setpoint Not Met Time
+ Output Reporting Tolerances, 0.200, 0.200, 
+! <Site:GroundTemperature:BuildingSurface>, Months From Jan to Dec {C}
+ Site:GroundTemperature:BuildingSurface,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00,  18.00
+! <Site:GroundTemperature:FCfactorMethod>, Months From Jan to Dec {C}
+ Site:GroundTemperature:FCfactorMethod,   9.15,   8.50,   9.66,  11.47,  16.21,  19.86,  22.33,  23.08,  21.80,  18.96,  15.17,  11.65
+! <Site:GroundTemperature:Shallow>, Months From Jan to Dec {C}
+ Site:GroundTemperature:Shallow,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00,  13.00
+! <Site:GroundTemperature:Deep>, Months From Jan to Dec {C}
+ Site:GroundTemperature:Deep,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00,  16.00
+! <Site:GroundReflectance>, Months From Jan to Dec {dimensionless}
+ Site:GroundReflectance,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Site:GroundReflectance:SnowModifier>, Normal, Daylighting {dimensionless}
+ Site:GroundReflectance:SnowModifier,   1.000,   1.000
+! <Site:GroundReflectance:Snow>, Months From Jan to Dec {dimensionless}
+ Site:GroundReflectance:Snow,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Site:GroundReflectance:Snow:Daylighting>, Months From Jan to Dec {dimensionless}
+ Site:GroundReflectance:Snow:Daylighting,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20,  0.20
+! <Environment:Weather Station>,Wind Sensor Height Above Ground {m},Wind Speed Profile Exponent {},Wind Speed Profile Boundary Layer Thickness {m},Air Temperature Sensor Height Above Ground {m},Wind Speed Modifier Coefficient [Internal],Temperature Modifier Coefficient [Internal]
+Environment:Weather Station,10.000,0.140,270.000,1.500,1.586,9.750E-003
+! <Site:Location>, Location Name, Latitude {N+/S- Deg}, Longitude {E+/W- Deg},  Time Zone Number {GMT+/-}, Elevation {m},  Standard Pressure at Elevation {Pa}, Standard RhoAir at Elevation
+Site:Location,ROME - ITA IWEC Data WMO#=162420,41.80,12.23,1.00,3.00,101289,1.2039
+! <Building Information>, Building Name,North Axis {deg},Terrain,  Loads Convergence Tolerance Value,Temperature Convergence Tolerance Value,  Solar Distribution,Maximum Number of Warmup Days,Minimum Number of Warmup Days
+ Building Information,Building 1,0.000,Suburbs,4.00000E-002,0.40000,FullExterior,25,6
+! <Inside Convection Algorithm>, Algorithm {Simple | TARP | CeilingDiffuser | AdaptiveConvectionAlgorithm}
+Inside Convection Algorithm,TARP
+! <Outside Convection Algorithm>, Algorithm {SimpleCombined | TARP | MoWitt | DOE-2 | AdaptiveConvectionAlgorithm}
+Outside Convection Algorithm,DOE-2
+! <Sky Radiance Distribution>, Value {Anisotropic}
+Sky Radiance Distribution,Anisotropic
+! <Zone Air Solution Algorithm>, Value {ThirdOrderBackwardDifference | AnalyticalSolution | EulerMethod}
+ Zone Air Solution Algorithm, ThirdOrderBackwardDifference
+! <Zone Air Carbon Dioxide Balance Simulation>, Simulation {Yes/No}, Carbon Dioxide Concentration
+ Zone Air Carbon Dioxide Balance Simulation, No,N/A
+! <Zone Air Generic Contaminant Balance Simulation>, Simulation {Yes/No}, Generic Contaminant Concentration
+ Zone Air Generic Contaminant Balance Simulation, No,N/A
+! <Zone Air Mass Flow Balance Simulation>, Enforce Mass Balance, Adjust Zone Mixing, Adjust Zone Infiltration {AddInfiltration | AdjustInfiltration | None}, Infiltration Zones {MixingSourceZonesOnly | AllZones}
+ Zone Air Mass Flow Balance Simulation, No,N/A,N/A,N/A
+! <Environment:Site Atmospheric Variation>,Wind Speed Profile Exponent {},Wind Speed Profile Boundary Layer Thickness {m},Air Temperature Gradient Coefficient {K/m}
+Environment:Site Atmospheric Variation,0.220,370.000,6.500000E-003
+! <SurfaceGeometry>,Starting Corner,Vertex Input Direction,Coordinate System,Daylight Reference Point Coordinate System,Rectangular (Simple) Surface Coordinate System
+ Surface Geometry,UpperLeftCorner,Counterclockwise,RelativeCoordinateSystem,RelativeCoordinateSystem,RelativeToZoneOrigin
+! <Surface Heat Transfer Algorithm>, Value {CTF - ConductionTransferFunction | EMPD - MoisturePenetrationDepthConductionTransferFunction | CondFD - ConductionFiniteDifference | HAMT - CombinedHeatAndMoistureFiniteElement} - Description,Inside Surface Max Temperature Limit{C}, Surface Convection Coefficient Lower Limit {W/m2-K}, Surface Convection Coefficient Upper Limit {W/m2-K}
+Surface Heat Transfer Algorithm, CTF - ConductionTransferFunction,200,0.10,1000.0
+! <Shading Summary>, Number of Fixed Detached Shades, Number of Building Detached Shades, Number of Attached Shades
+ Shading Summary,0,16,0
+! <Zone Summary>, Number of Zones, Number of Zone Surfaces, Number of SubSurfaces
+ Zone Summary,8,56,6
+! <Zone Information>,Zone Name,North Axis {deg},Origin X-Coordinate {m},Origin Y-Coordinate {m},Origin Z-Coordinate {m},Centroid X-Coordinate {m},Centroid Y-Coordinate {m},Centroid Z-Coordinate {m},Type,Zone Multiplier,Zone List Multiplier,Minimum X {m},Maximum X {m},Minimum Y {m},Maximum Y {m},Minimum Z {m},Maximum Z {m},Ceiling Height {m},Volume {m3},Zone Inside Convection Algorithm {Simple-Detailed-CeilingDiffuser-TrombeWall},Zone Outside Convection Algorithm {Simple-Detailed-Tarp-MoWitt-DOE-2-BLAST}, Floor Area {m2},Exterior Gross Wall Area {m2},Exterior Net Wall Area {m2},Exterior Window Area {m2}, Number of Surfaces, Number of SubSurfaces, Number of Shading SubSurfaces,  Part of Total Building Area
+ Zone Information, THERMAL ZONE 1,0.0,0.98,9.02,3.05,8.60,5.11,4.73,1,1,1,0.98,16.22,1.40,9.02,3.05,6.71,3.35,389.36,TARP,DOE-2,116.13,81.29,55.65,25.64,6,1,0,Yes
+ Zone Information, THERMAL ZONE 2,0.0,31.46,1.40,3.05,23.84,5.11,4.73,1,1,1,16.22,31.46,1.40,9.02,3.05,6.71,3.35,389.36,TARP,DOE-2,116.13,81.29,55.65,25.64,6,1,0,Yes
+ Zone Information, THERMAL ZONE 3,0.0,0.98,9.02,3.05,16.22,9.79,4.57,1,1,1,0.98,31.46,9.02,10.55,3.05,6.10,3.05,141.58,TARP,DOE-2,46.45,9.29,9.29,0.00,7,0,0,Yes
+ Zone Information, THERMAL ZONE 4,0.0,31.46,16.64,3.05,16.22,13.69,4.73,1,1,1,0.98,31.46,10.55,16.64,3.05,6.71,3.35,622.97,TARP,DOE-2,185.81,152.36,98.85,53.51,6,1,0,Yes
+ Zone Information, THERMAL ZONE 5,0.0,31.46,16.64,0.00,16.22,13.60,1.52,1,1,1,0.98,31.46,10.55,16.64,0.00,3.05,3.05,566.34,TARP,DOE-2,185.81,130.06,76.55,53.51,6,1,0,Yes
+ Zone Information, THERMAL ZONE 6,0.0,0.98,9.02,0.00,16.22,9.79,1.52,1,1,1,0.98,31.46,9.02,10.55,0.00,3.05,3.05,141.58,TARP,DOE-2,46.45,9.29,9.29,0.00,7,0,0,Yes
+ Zone Information, THERMAL ZONE 7,0.0,0.98,9.02,0.00,8.60,5.21,1.52,1,1,1,0.98,16.22,1.40,9.02,0.00,3.05,3.05,353.96,TARP,DOE-2,116.13,69.68,44.04,25.64,6,1,0,Yes
+ Zone Information, THERMAL ZONE 8,0.0,31.46,1.40,0.00,23.84,5.21,1.52,1,1,1,16.22,31.46,1.40,9.02,0.00,3.05,3.05,353.96,TARP,DOE-2,116.13,69.68,44.04,25.64,6,1,0,Yes
+! <Zone Internal Gains/Equipment Information - Nominal>,Zone Name, Floor Area {m2},# Occupants,Area per Occupant {m2/person},Occupant per Area {person/m2},Interior Lighting {W/m2},Electric Load {W/m2},Gas Load {W/m2},Other Load {W/m2},Hot Water Eq {W/m2},Steam Equipment {W/m2},Sum Loads per Area {W/m2},Outdoor Controlled Baseboard Heat
+ Zone Internal Gains, THERMAL ZONE 1,116.13,62.5,1.858,0.538,12.594,3.983,0.000,0.000,0.000,0.000,16.576,No
+ Zone Internal Gains, THERMAL ZONE 2,116.13,62.5,1.858,0.538,12.594,3.983,0.000,0.000,0.000,0.000,16.576,No
+ Zone Internal Gains, THERMAL ZONE 3,46.45,0.5,92.903,1.076E-002,4.844,1.722,0.000,0.000,0.000,0.000,6.566,No
+ Zone Internal Gains, THERMAL ZONE 4,185.81,10.5,17.696,5.651E-002,10.656,7.642,0.000,0.000,0.000,0.000,18.299,No
+ Zone Internal Gains, THERMAL ZONE 5,185.81,10.5,17.696,5.651E-002,10.656,7.642,0.000,0.000,0.000,0.000,18.299,No
+ Zone Internal Gains, THERMAL ZONE 6,46.45,0.5,92.903,1.076E-002,4.844,1.722,0.000,0.000,0.000,0.000,6.566,No
+ Zone Internal Gains, THERMAL ZONE 7,116.13,5.9,19.559,5.113E-002,10.656,6.889,0.000,0.000,0.000,0.000,17.545,No
+ Zone Internal Gains, THERMAL ZONE 8,116.13,62.5,1.858,0.538,12.594,3.983,0.000,0.000,0.000,0.000,16.576,No
+! <People Internal Gains - Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Number of People {},People/Floor Area {person/m2},Floor Area per person {m2/person},Fraction Radiant,Fraction Convected,Sensible Fraction Calculation,Activity level,ASHRAE 55 Warnings,Carbon Dioxide Generation Rate,Nominal Minimum Number of People,Nominal Maximum Number of People
+ People Internal Gains, THERMAL ZONE 7 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 PEOPLE,OFFICE WORK OCC,THERMAL ZONE 7,116.13,5.9,5.9,5.113E-002,19.559,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,6
+ People Internal Gains, THERMAL ZONE 1 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 PEOPLE,OFFICE MISC OCC,THERMAL ZONE 1,116.13,62.5,62.5,0.538,1.858,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,63
+ People Internal Gains, THERMAL ZONE 2 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 PEOPLE,OFFICE MISC OCC,THERMAL ZONE 2,116.13,62.5,62.5,0.538,1.858,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,63
+ People Internal Gains, THERMAL ZONE 8 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 PEOPLE,OFFICE MISC OCC,THERMAL ZONE 8,116.13,62.5,62.5,0.538,1.858,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,63
+ People Internal Gains, THERMAL ZONE 3 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 PEOPLE,OFFICE WORK OCC,THERMAL ZONE 3,46.45,0.5,0.5,1.076E-002,92.903,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,0
+ People Internal Gains, THERMAL ZONE 6 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 PEOPLE,OFFICE WORK OCC,THERMAL ZONE 6,46.45,0.5,0.5,1.076E-002,92.903,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,0
+ People Internal Gains, THERMAL ZONE 4 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 PEOPLE,OFFICE WORK OCC,THERMAL ZONE 4,185.81,10.5,10.5,5.651E-002,17.696,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,11
+ People Internal Gains, THERMAL ZONE 5 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 PEOPLE,OFFICE WORK OCC,THERMAL ZONE 5,185.81,10.5,10.5,5.651E-002,17.696,0.300,0.700,AutoCalculate,OFFICE ACTIVITY,No,3.8200E-008,0,11
+! <Lights Internal Gains - Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Lighting Level {W},Lights/Floor Area {W/m2},Lights per person {W/person},Fraction Return Air,Fraction Radiant,Fraction Short Wave,Fraction Convected,Fraction Replaceable,End-Use Category,Nominal Minimum Lighting Level {W},Nominal Maximum Lighting Level {W}
+ Lights Internal Gains, THERMAL ZONE 7 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 7,116.13,5.9,1237.500,10.656,208.421,0.000,0.000,0.000,1.000,1.000,General,0.000,1237.500
+ Lights Internal Gains, THERMAL ZONE 1 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 1,116.13,62.5,1462.500,12.594,23.400,0.000,0.000,0.000,1.000,1.000,General,0.000,1462.500
+ Lights Internal Gains, THERMAL ZONE 2 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 2,116.13,62.5,1462.500,12.594,23.400,0.000,0.000,0.000,1.000,1.000,General,0.000,1462.500
+ Lights Internal Gains, THERMAL ZONE 8 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 8,116.13,62.5,1462.500,12.594,23.400,0.000,0.000,0.000,1.000,1.000,General,0.000,1462.500
+ Lights Internal Gains, THERMAL ZONE 3 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 3,46.45,0.5,225.000,4.844,450.000,0.000,0.000,0.000,1.000,1.000,General,0.000,225.000
+ Lights Internal Gains, THERMAL ZONE 6 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 6,46.45,0.5,225.000,4.844,450.000,0.000,0.000,0.000,1.000,1.000,General,0.000,225.000
+ Lights Internal Gains, THERMAL ZONE 4 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 4,185.81,10.5,1980.000,10.656,188.571,0.000,0.000,0.000,1.000,1.000,General,0.000,1980.000
+ Lights Internal Gains, THERMAL ZONE 5 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 LIGHTS,OFFICE BLDG LIGHT,THERMAL ZONE 5,185.81,10.5,1980.000,10.656,188.571,0.000,0.000,0.000,1.000,1.000,General,0.000,1980.000
+! <ElectricEquipment Internal Gains - Nominal>,Name,Schedule Name,Zone Name,Zone Floor Area {m2},# Zone Occupants,Equipment Level {W},Equipment/Floor Area {W/m2},Equipment per person {W/person},Fraction Latent,Fraction Radiant,Fraction Lost,Fraction Convected,End-Use SubCategory,Nominal Minimum Equipment Level {W},Nominal Maximum Equipment Level {W}
+ ElectricEquipment Internal Gains, THERMAL ZONE 7 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 7,116.13,5.9,800.000,6.889,134.737,0.000,0.000,0.000,1.000,General,0.000,800.000
+ ElectricEquipment Internal Gains, THERMAL ZONE 1 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 1,116.13,62.5,462.500,3.983,7.400,0.000,0.000,0.000,1.000,General,0.000,462.500
+ ElectricEquipment Internal Gains, THERMAL ZONE 2 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 2,116.13,62.5,462.500,3.983,7.400,0.000,0.000,0.000,1.000,General,0.000,462.500
+ ElectricEquipment Internal Gains, THERMAL ZONE 8 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 8,116.13,62.5,462.500,3.983,7.400,0.000,0.000,0.000,1.000,General,0.000,462.500
+ ElectricEquipment Internal Gains, THERMAL ZONE 3 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 3,46.45,0.5,80.000,1.722,160.000,0.000,0.000,0.000,1.000,General,0.000,80.000
+ ElectricEquipment Internal Gains, THERMAL ZONE 6 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 6,46.45,0.5,80.000,1.722,160.000,0.000,0.000,0.000,1.000,General,0.000,80.000
+ ElectricEquipment Internal Gains, THERMAL ZONE 4 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 4,185.81,10.5,1420.000,7.642,135.238,0.000,0.000,0.000,1.000,General,0.000,1420.000
+ ElectricEquipment Internal Gains, THERMAL ZONE 5 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 ELECTRIC EQUIPMENT,OFFICE BLDG EQUIP,THERMAL ZONE 5,185.81,10.5,1420.000,7.642,135.238,0.000,0.000,0.000,1.000,General,0.000,1420.000
+! <Shadowing/Sun Position Calculations> [Annual Simulations], Calculation Method, Value {days}, Allowable Number Figures in Shadow Overlap {}, Polygon Clipping Algorithm, Sky Diffuse Modeling Algorithm
+Shadowing/Sun Position Calculations,AverageOverDaysInFrequency,20,15000,SutherlandHodgman,SimpleSkyDiffuseModeling
+! <Infiltration Airflow Stats - Nominal>,Name,Schedule Name,Zone Name, Zone Floor Area {m2}, # Zone Occupants,Design Volume Flow Rate {m3/s},Volume Flow Rate/Floor Area {m3/s/m2},Volume Flow Rate/Exterior Surface Area {m3/s/m2},ACH - Air Changes per Hour,Equation A - Constant Term Coefficient {},Equation B - Temperature Term Coefficient {1/C},Equation C - Velocity Term Coefficient {s/m}, Equation D - Velocity Squared Term Coefficient {s2/m2}
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 7 189.1-2009 - OFFICE - CLOSEDOFFICE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 7,116.13,5.9,2.106E-002,1.814E-004,3.023E-004,0.214,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 1 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 1,116.13,62.5,5.978E-002,5.148E-004,3.023E-004,0.553,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 2 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 2,116.13,62.5,5.978E-002,5.148E-004,3.023E-004,0.553,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 8 189.1-2009 - OFFICE - CONFERENCE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 8,116.13,62.5,2.106E-002,1.814E-004,3.023E-004,0.214,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 3 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 3,46.45,0.5,1.685E-002,3.627E-004,3.023E-004,0.428,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 6 189.1-2009 - OFFICE - CORRIDOR - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 6,46.45,0.5,2.808E-003,6.045E-005,3.023E-004,7.140E-002,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 4 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 4,185.81,10.5,0.102,5.516E-004,3.023E-004,0.592,1.000,0.000,0.000,0.000
+ ZoneInfiltration Airflow Stats, THERMAL ZONE 5 189.1-2009 - OFFICE - OPENOFFICE - CZ1-3 INFILTRATION,OFFICE INFIL QUARTER ON,THERMAL ZONE 5,185.81,10.5,3.931E-002,2.116E-004,3.023E-004,0.250,1.000,0.000,0.000,0.000
+! <ZoneVentilation Airflow Stats - Nominal>,Name,Schedule Name,Zone Name, Zone Floor Area {m2}, # Zone Occupants,Design Volume Flow Rate {m3/s},Volume Flow Rate/Floor Area {m3/s/m2},Volume Flow Rate/person Area {m3/s/person},ACH - Air Changes per Hour,Fan Type {Exhaust;Intake;Natural},Fan Pressure Rise {Pa},Fan Efficiency {},Equation A - Constant Term Coefficient {},Equation B - Temperature Term Coefficient {1/C},Equation C - Velocity Term Coefficient {s/m}, Equation D - Velocity Squared Term Coefficient {s2/m2},Minimum Indoor Temperature{C}/Schedule,Maximum Indoor Temperature{C}/Schedule,Delta Temperature{C}/Schedule,Minimum Outdoor Temperature{C}/Schedule,Maximum Outdoor Temperature{C}/Schedule,Maximum WindSpeed{m/s}
+ ZoneVentilation Airflow Stats, THERMAL ZONE 1 VENTILATION PER PERSON,OFFICE MISC OCC,THERMAL ZONE 1,116.13,62.5,0.590,5.080E-003,9.439E-003,5.455,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 2 VENTILATION PER PERSON,OFFICE MISC OCC,THERMAL ZONE 2,116.13,62.5,0.590,5.080E-003,9.439E-003,5.455,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 3 VENTILATION PER FLOOR AREA,ALWAYS_ON,THERMAL ZONE 3,46.45,0.5,1.180E-002,2.540E-004,2.360E-002,0.300,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 4 VENTILATION PER PERSON,OFFICE WORK OCC,THERMAL ZONE 4,185.81,10.5,9.911E-002,5.334E-004,9.439E-003,0.573,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 5 VENTILATION PER PERSON,OFFICE WORK OCC,THERMAL ZONE 5,185.81,10.5,9.911E-002,5.334E-004,9.439E-003,0.630,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 6 VENTILATION PER FLOOR AREA,ALWAYS_ON,THERMAL ZONE 6,46.45,0.5,1.180E-002,2.540E-004,2.360E-002,0.300,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 7 VENTILATION PER PERSON,OFFICE WORK OCC,THERMAL ZONE 7,116.13,5.9,5.604E-002,4.826E-004,9.439E-003,0.570,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+ ZoneVentilation Airflow Stats, THERMAL ZONE 8 VENTILATION PER PERSON,OFFICE MISC OCC,THERMAL ZONE 8,116.13,62.5,0.590,5.080E-003,9.439E-003,6.000,Natural,0.000,1.0,1.000,0.000,0.000,0.000,-100.00,100.00,-100.00,-100.00,100.00,40.00
+! <AirFlow Model>, Simple
+ AirFlow Model, Simple
+! <RoomAir Model>, Zone Name, Mixing/Mundt/UCSDDV/UCSDCV/UCSDUFI/UCSDUFE/User Defined
+RoomAir Model,THERMAL ZONE 1,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 2,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 3,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 4,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 5,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 6,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 7,Mixing/Well-Stirred
+RoomAir Model,THERMAL ZONE 8,Mixing/Well-Stirred
+! <AirflowNetwork Model:Control>, No Multizone or Distribution/Multizone with Distribution/Multizone without Distribution/Multizone with Distribution only during Fan Operation
+AirflowNetwork Model:Control,NoMultizoneOrDistribution
+! <Zone Volume Capacitance Multiplier>, Sensible Heat Capacity Multiplier, Moisture Capacity Multiplier, Carbon Dioxide Capacity Multiplier, Generic Contaminant Capacity Multiplier
+Zone Volume Capacitance Multiplier,   1.000 ,   1.000,   1.000,   1.000
+! <Load Timesteps in Zone Design Calculation Averaging Window>, Value
+ Load Timesteps in Zone Design Calculation Averaging Window,    4
+! <Heating Sizing Factor Information>, Sizing Factor ID, Value
+ Heating Sizing Factor Information, Global,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 1,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 2,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 3,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 4,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 5,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 6,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 7,   1.2500    
+ Heating Sizing Factor Information, Zone THERMAL ZONE 8,   1.2500    
+! <Cooling Sizing Factor Information>, Sizing Factor ID, Value
+ Cooling Sizing Factor Information, Global,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 1,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 2,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 3,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 4,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 5,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 6,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 7,   1.1500    
+ Cooling Sizing Factor Information, Zone THERMAL ZONE 8,   1.1500    
+! <Zone Sizing Information>, Zone Name, Load Type, Calc Des Load {W}, User Des Load {W}, Calc Des Air Flow Rate {m3/s}, User Des Air Flow Rate {m3/s}, Design Day Name, Date/Time of Peak, Temperature at Peak {C}, Humidity Ratio at Peak {kgWater/kgDryAir}, Floor Area {m2}, # Occupants, Calc Outdoor Air Flow Rate {m3/s}, Calc DOAS Heat Addition Rate {W}
+ Zone Sizing Information, THERMAL ZONE 1, Cooling, 12177.36624, 14003.97118, 0.99374, 1.14280, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 15:00:00, 31.00000, 1.40940E-002, 116.12880, 62.50000, 0.58993, 0.00000
+ Zone Sizing Information, THERMAL ZONE 1, Heating, 4898.19918, 6122.74898, 0.20994, 0.58993, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 116.12880, 62.50000, 0.58993, 0.00000
+ Zone Sizing Information, THERMAL ZONE 2, Cooling, 12316.85207, 14164.37988, 1.00512, 1.15589, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 15:00:00, 31.00000, 1.40940E-002, 116.12880, 62.50000, 0.58993, 0.00000
+ Zone Sizing Information, THERMAL ZONE 2, Heating, 4897.68999, 6122.11249, 0.20992, 0.58993, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 116.12880, 62.50000, 0.58993, 0.00000
+ Zone Sizing Information, THERMAL ZONE 3, Cooling, 956.96245, 1100.50682, 7.79007E-002, 8.95858E-002, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 17:30:00, 29.19500, 1.40940E-002, 46.45152, 0.50000, 1.17987E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 3, Heating, 1689.81864, 2112.27330, 7.24292E-002, 9.05365E-002, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 46.45152, 0.50000, 1.17987E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 4, Cooling, 7007.52224, 8058.65058, 0.57066, 0.65626, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 15:45:00, 30.57250, 1.40940E-002, 185.80608, 10.50000, 9.91090E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 4, Heating, 9056.02860, 11320.03575, 0.38814, 0.48518, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 185.80608, 10.50000, 9.91090E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 5, Cooling, 4639.68037, 5335.63242, 0.37785, 0.43453, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 15:00:00, 31.00000, 1.40940E-002, 185.80608, 10.50000, 9.91090E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 5, Heating, 6064.07549, 7580.09437, 0.25995, 0.32494, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 185.80608, 10.50000, 9.91090E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 6, Cooling, 78.03604, 89.74145, 6.35166E-003, 1.17987E-002, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 15:45:00, 30.57250, 1.40940E-002, 46.45152, 0.50000, 1.17987E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 6, Heating, 1148.10773, 1435.13467, 4.92157E-002, 6.15196E-002, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 46.45152, 0.50000, 1.17987E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 7, Cooling, 2859.52211, 3288.45043, 0.23287, 0.26780, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 14:30:00, 31.00000, 1.40940E-002, 116.12880, 5.93750, 5.60438E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 7, Heating, 3187.42762, 3984.28453, 0.13664, 0.17080, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 116.12880, 5.93750, 5.60438E-002, 0.00000
+ Zone Sizing Information, THERMAL ZONE 8, Cooling, 10321.65114, 11869.89881, 0.84256, 0.96895, ROME ANN CLG .4% CONDNS DB=>MWB, 8/21 14:45:00, 31.00000, 1.40940E-002, 116.12880, 62.50000, 0.58993, 0.00000
+ Zone Sizing Information, THERMAL ZONE 8, Heating, 3187.26700, 3984.08375, 0.13663, 0.58993, ROME ANN HTG 99.6% CONDNS DB, 1/21 06:00:00, -0.80000, 3.53288E-003, 116.12880, 62.50000, 0.58993, 0.00000
+! <Component Sizing Information>, Component Type, Component Name, Input Field Description, Value
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 1 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 2 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 3 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 4 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 5 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 5 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 6 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 7 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Heating Air Flow Rate [m3/s], 0.00000
+ Component Sizing Information, ZoneHVAC:IdealLoadsAirSystem, THERMAL ZONE 8 IDEAL LOADS AIR SYSTEM, User-Specified Maximum Cooling Air Flow Rate [m3/s], 0.00000
+! <Environment>,Environment Name,Environment Type, Start Date, End Date, Start DayOfWeek, Duration {#days}, Source:Start DayOfWeek,  Use Daylight Saving, Use Holidays, Apply Weekend Holiday Rule,  Use Rain Values, Use Snow Values
+! <Environment:Special Days>, Special Day Name, Special Day Type, Source, Start Date, Duration {#days}
+! <Environment:Daylight Saving>, Daylight Saving Indicator, Source, Start Date, End Date
+! <Environment:WarmupDays>, NumberofWarmupDays
+Environment,ROME ANN CLG .4% CONDNS DB=>MWB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+! <Environment:Design Day Data>, Max Dry-Bulb Temp {C}, Temp Range {dC}, Temp Range Ind Type, Hum Ind Value at Max Temp, Hum Ind Type,Pressure {Pa}, Wind Direction {deg CW from N}, Wind Speed {m/s}, Clearness, Rain, Snow
+! <Environment:Design_Day_Misc>,DayOfYear,ASHRAE A Coeff,ASHRAE B Coeff,ASHRAE C Coeff,Solar Constant-Annual Variation,Eq of Time {minutes}, Solar Declination Angle {deg}, Solar Model
+Environment:Design Day Data,31.00,9.50,DefaultMultipliers,101289,170,5.0,0.00,No,No
+Environment:Design_Day_Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+! <Tabular Report>,Style,Unit Conversion
+Tabular Report,HTML,None
+! <Warmup Convergence Information>,Zone Name,Environment Type/Name,Average Warmup Temperature Difference {deltaC},Std Dev Warmup Temperature Difference {deltaC},Max Temperature Pass/Fail Convergence,Min Temperature Pass/Fail Convergence,Average Warmup Load Difference {W},Std Dev Warmup Load Difference {W},Heating Load Pass/Fail Convergence,Cooling Load Pass/Fail Convergence
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,5.6562764958E-002,0.3431505364,Pass,Pass,8.3552636952E-002,0.3368079262,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,5.6556211593E-002,0.3435143793,Pass,Pass,8.3062143664E-002,0.3359309653,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,4.8593288562E-002,0.2427228129,Pass,Pass,4.7413577469E-002,0.2425994992,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,5.7587930589E-002,0.3401574971,Pass,Pass,6.7589205334E-002,0.2415291921,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,4.5407692198E-002,0.2075162474,Pass,Pass,6.7475633744E-002,0.3616848269,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,1.6619448970E-002,1.6298913876E-002,Pass,Pass,4.7153734784E-002,0.1691051329,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,4.6931032152E-002,0.2161870984,Pass,Pass,7.7626631207E-002,0.4437159525,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN CLG .4% CONDNS DB=>MWB,4.6416412284E-002,0.2093025392,Pass,Pass,3.5302472627E-002,0.1198980461,Pass,Pass
+Environment,ROME ANN CLG .4% CONDNS DP=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,27.60,9.50,DefaultMultipliers,101289,170,5.0,0.00,No,No
+Environment:Design_Day_Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,6.3415922302E-002,0.3520153710,Pass,Pass,0.1481038129,0.4967190862,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,6.3287947268E-002,0.3525721180,Pass,Pass,0.1479102468,0.5306279030,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,3.2193039796E-002,0.1373265578,Pass,Pass,4.9568856014E-002,0.2592446890,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,5.9609933917E-002,0.3117348186,Pass,Pass,0.3075099011,2.1117415184,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,2.5986520389E-002,9.0700242168E-002,Pass,Pass,6.6796423750E-002,0.3180442033,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,2.7532539608E-002,1.3799074273E-002,Pass,Pass,0.0000000000,0.0000000000,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,3.0496474434E-002,0.1149029640,Pass,Pass,9.6267956280E-002,0.5797072730,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN CLG .4% CONDNS DP=>MDB,3.3132086069E-002,0.1247359665,Pass,Pass,4.6697675759E-002,0.1207707872,Pass,Pass
+Environment,ROME ANN CLG .4% CONDNS ENTH=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,28.70,9.50,DefaultMultipliers,101289,170,5.0,0.00,No,No
+Environment:Design_Day_Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,5.9265883770E-002,0.3457498179,Pass,Pass,0.1365923446,0.4804799442,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,5.9252401298E-002,0.3462887504,Pass,Pass,0.1358210391,0.4710789367,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,3.7677159694E-002,0.1733694892,Pass,Pass,5.1241527891E-002,0.2600838147,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,5.8290980184E-002,0.3323495080,Pass,Pass,0.1642523441,0.6981647734,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,3.2684389461E-002,0.1292872387,Pass,Pass,7.0333165145E-002,0.3507276517,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,2.5592401905E-002,1.3947982062E-002,Pass,Pass,0.0000000000,0.0000000000,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,3.6081925413E-002,0.1484320050,Pass,Pass,8.9117550572E-002,0.5107578592,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN CLG .4% CONDNS ENTH=>MDB,3.5155705880E-002,0.1429082456,Pass,Pass,4.8339312273E-002,0.1456954489,Pass,Pass
+Environment,ROME ANN CLG .4% CONDNS WB=>MDB,SizingPeriod:DesignDay,08/21,08/21,SummerDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,28.50,9.50,DefaultMultipliers,101289,170,5.0,0.00,No,No
+Environment:Design_Day_Misc,233,1106.3,0.2000,0.1216,1.0,-3.33,12.4,ASHRAETau
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,5.9646972643E-002,0.3462803151,Pass,Pass,0.1634268007,0.6484331164,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,5.9633610824E-002,0.3468566060,Pass,Pass,0.1589713375,0.6213708227,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,3.6574191744E-002,0.1666306195,Pass,Pass,5.1466993237E-002,0.2608186002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,5.8413577915E-002,0.3315378444,Pass,Pass,0.1903147491,0.8533599141,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,3.1450545874E-002,0.1220853476,Pass,Pass,7.0296492117E-002,0.3470003332,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,2.5894884362E-002,1.3850852720E-002,Pass,Pass,0.0000000000,0.0000000000,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,3.5048749057E-002,0.1422054262,Pass,Pass,9.0552738084E-002,0.5199368241,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN CLG .4% CONDNS WB=>MDB,3.4264320340E-002,0.1375791079,Pass,Pass,5.1708381771E-002,0.1600501243,Pass,Pass
+Environment,ROME ANN HTG 99.6% CONDNS DB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,-0.80,0.00,DefaultMultipliers,101289,70,3.3,0.00,No,No
+Environment:Design_Day_Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,1.1405691206E-013,8.2085625683E-014,Pass,Pass,6.3890195708E-003,4.4300577426E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,8.2600593032E-014,8.7147156512E-014,Pass,Pass,6.3898193063E-003,4.4306241621E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,5.5215091758E-014,5.2829612623E-014,Pass,Pass,5.0413484867E-003,3.4811900060E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,8.3340741715E-014,6.2242059676E-014,Pass,Pass,5.8382892144E-003,4.0409699459E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,7.3829831138E-014,3.0725509961E-014,Pass,Pass,3.1105771765E-003,2.1384980003E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,4.4519943287E-014,4.5988300262E-014,Pass,Pass,1.1174567468E-003,7.6637066190E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,6.8019663975E-014,5.8923970668E-014,Pass,Pass,3.1757945174E-003,2.1835903794E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN HTG 99.6% CONDNS DB,5.2661578801E-014,5.5386060857E-014,Pass,Pass,3.1759687756E-003,2.1837108853E-002,Pass,Pass
+Environment,ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,10.50,0.00,DefaultMultipliers,101289,70,13.8,0.00,No,No
+Environment:Design_Day_Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,7.9602990866E-014,7.3605609593E-014,Pass,Pass,5.7249302485E-003,3.9611172081E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,8.4302935003E-014,6.2289701269E-014,Pass,Pass,5.7297153948E-003,3.9644864012E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,2.2019423322E-014,4.9853162202E-014,Pass,Pass,4.4321296969E-003,3.0556362649E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,7.5421150806E-014,8.8633322438E-014,Pass,Pass,5.0932041918E-003,3.5175035784E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,8.3673808623E-014,6.6320368026E-014,Pass,Pass,2.3418961865E-003,1.6080947688E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,5.8841820305E-015,2.1370663747E-014,Pass,Pass,7.7288930465E-004,5.2995923441E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,6.7427545029E-014,7.6376422817E-014,Pass,Pass,2.3911646060E-003,1.6420364173E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN HTG WIND 99.6% CONDNS WS=>MCDB,1.0010510939E-013,7.3361234174E-014,Pass,Pass,2.3929211676E-003,1.6432466609E-002,Pass,Pass
+Environment,ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,SizingPeriod:DesignDay,01/21,01/21,WinterDesignDay,1,N/A,N/A,N/A,N/A,N/A,N/A
+Environment:Daylight Saving,No,SizingPeriod:DesignDay
+Environment:Design Day Data,3.60,0.00,DefaultMultipliers,101289,70,3.3,0.00,No,No
+Environment:Design_Day_Misc, 21,1229.0,0.1415,5.7310E-002,1.0,-11.15,-20.1,ASHRAEClearSky
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,3.1049237255E-014,5.8140634222E-014,Pass,Pass,6.1608271024E-003,4.2686076652E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,3.0383103441E-014,5.6004256270E-014,Pass,Pass,6.1619873090E-003,4.2694276856E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,2.0539125956E-014,3.4983419360E-014,Pass,Pass,4.7974512176E-003,3.3105889995E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,1.9428902931E-014,3.7243363155E-014,Pass,Pass,5.6480486775E-003,3.9070042566E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,2.3092638912E-014,4.6116905799E-014,Pass,Pass,2.9163420568E-003,2.0042903504E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,1.2360483007E-014,2.6581025925E-014,Pass,Pass,1.0085690934E-003,6.9164673248E-003,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,4.0708177570E-014,5.2143251470E-014,Pass,Pass,2.9500278946E-003,2.0275563139E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,SizingPeriod: ROME ANN HUM_N 99.6% CONDNS DP=>MCDB,3.1456319031E-014,4.9838284067E-014,Pass,Pass,2.9502627399E-003,2.0277185293E-002,Pass,Pass
+Environment,RUN PERIOD 1,WeatherFileRunPeriod,01/01,12/31,Sunday,365,Use RunPeriod Specified Day,No,No,No,Yes,Yes
+Environment:Daylight Saving,No,RunPeriod Object
+Environment:WarmupDays,  6
+ Warmup Convergence Information,THERMAL ZONE 1,RunPeriod: RUN PERIOD 1,1.5993545687E-002,3.2692857412E-002,Pass,Pass,0.1636698850,0.9550678658,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 2,RunPeriod: RUN PERIOD 1,1.6011731857E-002,3.3038624033E-002,Pass,Pass,0.1525507906,0.8358537649,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 3,RunPeriod: RUN PERIOD 1,3.3639757646E-014,3.1253714818E-014,Pass,Pass,7.8493080308E-002,9.4472157374E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 4,RunPeriod: RUN PERIOD 1,2.5678881885E-003,8.3129578043E-003,Pass,Pass,0.1077221853,0.2275984878,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 5,RunPeriod: RUN PERIOD 1,3.5427879929E-002,4.0006380982E-002,Pass,Pass,5.3561204088E-002,0.1824987493,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 6,RunPeriod: RUN PERIOD 1,2.9577927247E-002,1.9816962514E-002,Pass,Pass,0.0000000000,0.0000000000,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 7,RunPeriod: RUN PERIOD 1,5.6337584568E-002,5.0535983838E-002,Pass,Pass,2.0724516122E-002,7.4386285282E-002,Pass,Pass
+ Warmup Convergence Information,THERMAL ZONE 8,RunPeriod: RUN PERIOD 1,5.1391550606E-002,5.2615310721E-002,Pass,Pass,5.8873613076E-002,0.1699226595,Pass,Pass
+! <Program Control Information:Threads/Parallel Sims>, Threading Supported,Maximum Number of Threads, Env Set Threads (OMP_NUM_THREADS), EP Env Set Threads (EP_OMP_NUM_THREADS), IDF Set Threads, Number of Threads Used (Interior Radiant Exchange), Number Nominal Surfaces, Number Parallel Sims
+Program Control:Threads/Parallel Sims, No,1, N/A, N/A, N/A, N/A, N/A, N/A
+End of Data
